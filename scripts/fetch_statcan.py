@@ -1,12 +1,12 @@
-"""Download the two StatCan tables and write small raw samples.
+"""Download the two StatCan tables and write the team's raw data files.
 
 Usage (from the repo root):
     python scripts/fetch_statcan.py                  # download both tables, write samples
     python scripts/fetch_statcan.py --zip-dir ~/Downloads   # use zips you already downloaded
 
 Outputs (in data/raw):
-    18100245_prices_sample.csv   staple products only, 2019 onward
-    18100004_cpi_sample.csv      all-items / food / food from stores / food from restaurants, 2019 onward
+    18100245_prices.csv   every product in the table, 2017 onward (the table starts in 2017)
+    18100004_cpi.csv      all-items / food / food from stores / food from restaurants, 2017 onward
 
 Standard library only. The full zips are saved to data/raw too but are git-ignored.
 """
@@ -23,10 +23,9 @@ TABLES = {
     "18100004": "https://www150.statcan.gc.ca/n1/tbl/csv/18100004-eng.zip",
 }
 
-# Edit these lists to change what goes into the sample.
-STAPLE_KEYWORDS = ["beef", "egg", "bread", "coffee", "milk", "butter", "chicken"]
+# Edit these to change what goes into the raw files.
 CPI_GROUPS = ["All-items", "Food", "Food purchased from stores", "Food purchased from restaurants"]
-START_YEAR = 2019
+START_YEAR = 2017  # the retail price table starts in Jan 2017; 2019 is still the comparison baseline
 
 RAW = Path(__file__).resolve().parent.parent / "data" / "raw"
 
@@ -65,7 +64,7 @@ def product_column(fieldnames):
     sys.exit(f"No 'Products' column found. Header was: {fieldnames}")
 
 
-def write_sample(rows, out_path, keep):
+def write_filtered(rows, out_path, keep):
     kept = 0
     writer = None
     with open(out_path, "w", newline="", encoding="utf-8") as out:
@@ -87,7 +86,7 @@ def main():
     RAW.mkdir(parents=True, exist_ok=True)
 
     for table_id, label, wanted in [
-        ("18100245", "prices", lambda p: any(k in p.lower() for k in STAPLE_KEYWORDS)),
+        ("18100245", "prices", lambda p: True),  # all products
         ("18100004", "cpi", lambda p: p in CPI_GROUPS),
     ]:
         rows = read_rows(get_zip(table_id, args.zip_dir), table_id)
@@ -102,9 +101,9 @@ def main():
             yield first_row
             yield from rest
 
-        write_sample(with_first(first, rows), RAW / f"{table_id}_{label}_sample.csv", keep)
+        write_filtered(with_first(first, rows), RAW / f"{table_id}_{label}.csv", keep)
 
-    print("Done. Check the sample files, then record the real column names in docs/data_dictionary.md.")
+    print("Done. If columns or products changed, update docs/data_dictionary.md.")
 
 
 if __name__ == "__main__":
