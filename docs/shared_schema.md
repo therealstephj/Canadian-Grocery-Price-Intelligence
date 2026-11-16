@@ -35,4 +35,7 @@ CPI gets its own fact table (`fact_cpi`) sharing the same date and geography dim
 
 ## Notes
 
-- Raw StatCan column names (for example `REF_DATE`, `GEO`, `Products`, `VALUE`) are mapped to the names above by the EDA role. Check the real header of the downloaded file when writing the mapping, then record it in `docs/data_dictionary.md`.
+- Raw StatCan column names are mapped to the names above by the EDA role. The mapping table is in `docs/data_dictionary.md`.
+- In the raw price table the unit is part of the product text (for example "Eggs, 1 dozen"). The EDA role splits it into `product` and `unit`.
+- CPI values are on a 2002=100 base. Indexing to 2019=100 for comparisons is done in cleaning/SQL, not in the raw data.
+- Two geographies are cities, not whole territories (Whitehorse, Yellowknife). Agree on how they map to `province` and `province_code` in week 1 and write the rule here.
