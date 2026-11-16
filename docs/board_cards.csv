@@ -1,0 +1,23 @@
+title,role,suggested_owner,week,deliverable,description
+Raw sample + shared schema pushed,1 Project Lead,Stephanie,1,data/raw + docs/shared_schema.md,Push a small raw sample from both StatCan tables and the agreed column names so SQL / Power BI / ML can start in parallel
+Business questions and KPIs,1 Project Lead,Stephanie,1,docs/business_questions.md,Turn the project into 4-5 business questions and the KPI that answers each
+Data dictionary + source log,1 Project Lead,Stephanie,1-2,docs/data_dictionary.md,Document columns and sources; keep running notes on limitations
+Project board + weekly meeting,1 Project Lead,Stephanie,1,GitHub Project board,Run the board and the 30 minute weekly meeting
+Final README + recommendations,1 Project Lead,Stephanie,6,README.md,Final README and presentation of recommendations answering the five business questions
+Standardize names / units / dates / provinces,2 Data Cleaning and EDA,TBD,2,data/clean/*.csv,Standardize product names units dates and province codes with pandas
+Handle gaps and outliers,2 Data Cleaning and EDA,TBD,2-3,notebooks/eda.ipynb,Handle products added or dropped from the series and investigate outliers
+YoY and cumulative % change vs 2019,2 Data Cleaning and EDA,TBD,3,notebooks/eda.ipynb,Calculate year-over-year and cumulative percent change using a 2019 baseline
+EDA notebook + clean CSVs,2 Data Cleaning and EDA,TBD,3-4,notebooks/ + data/clean/,First look at trends: biggest risers seasonality food vs overall inflation
+Star schema design,3 SQL and Data Modelling,TBD,1-2,sql/schema.sql,PostgreSQL star schema: fact_price dim_product dim_geography dim_date
+Reusable queries (LAG / RANK / CTE),3 SQL and Data Modelling,TBD,2-4,sql/queries/,LAG for YoY change; RANK for top 10 increases; CTEs for province and food-at-home vs restaurant comparisons
+KPI views,3 SQL and Data Modelling,TBD,3-4,sql/views.sql,Views that Power BI connects to
+SQL vs Python validation,3 SQL and Data Modelling,TBD,4-5,docs/validation.md,Check SQL results match the Python numbers from the EDA role
+Power BI mock layout,4a Power BI Dashboard,TBD,1-2,dashboard/mockup,Mock the page layout using the shared schema before real data arrives
+Overview page with KPI cards,4a Power BI Dashboard,TBD,3-4,dashboard/*.pbix,Connect to Postgres views; overview page with KPI cards
+Product drill-down + provincial map,4a Power BI Dashboard,TBD,4-5,dashboard/*.pbix,Product drill-down page and a provincial map or comparison; slicers for category province and date range
+Dashboard screenshots + guide,4a Power BI Dashboard,TBD,5-6,dashboard/README.md,.pbix file screenshots or a GIF and a short dashboard guide
+Seasonal-naive baseline,4b Forecasting and ML,TBD,1-2,models/baseline,Set up baseline forecast for 5-8 staple items
+SARIMA or Prophet,4b Forecasting and ML,TBD,3-4,notebooks/forecasting.ipynb,Second model with time-based validation
+Gradient boosting with lag features,4b Forecasting and ML,TBD,4-5,notebooks/forecasting.ipynb,Third model; report MAE and RMSE against the baseline; be honest about limits
+Forecast results table for dashboard,4b Forecasting and ML,TBD,5-6,models/results.csv,Results table that goes into the dashboard
+Integrate + freeze + final LinkedIn post,All,All,6,main branch,Freeze features integrate everything and post the last LinkedIn update
