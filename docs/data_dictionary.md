@@ -9,12 +9,12 @@ Owner: Project Lead. Keep this updated as the team finds things.
 | 18-10-0245-01 | Monthly average retail prices for selected products | Statistics Canada | https://doi.org/10.25318/1810024501-eng | 2026-11-16 | Stephanie | Open Government Licence - Canada |
 | 18-10-0004-01 | Consumer Price Index, monthly, not seasonally adjusted | Statistics Canada | https://doi.org/10.25318/1810000401-eng | 2026-11-16 | Stephanie | Open Government Licence - Canada |
 
-Samples in `data/raw` were made by `scripts/fetch_statcan.py` (2019 onward only; prices limited to staple keywords, CPI limited to four groups). Re-run the script to refresh them. Never edit them by hand.
+The raw files in `data/raw` are made by `scripts/fetch_statcan.py`: **every product in the price table**, and the four CPI groups below, from **January 2017** (the first month of the price table) onward. 2019 stays the comparison baseline. Re-run the script to refresh them. Never edit them by hand.
 
-| Sample file | Rows | What it holds |
-|---|---|---|
-| `data/raw/18100245_prices_sample.csv` | 21,611 | 21 products (see below) |
-| `data/raw/18100004_cpi_sample.csv` | 6,486 | All-items, Food, Food purchased from stores, Food purchased from restaurants |
+| Raw file | Rows | Months | What it holds |
+|---|---|---|---|
+| `data/raw/18100245_prices.csv` | 142,740 | 2017-01 → 2026-09 | All 110 products, 13 geographies |
+| `data/raw/18100004_cpi.csv` | 8,142 | 2017-01 → 2026-10 | All-items, Food, Food purchased from stores, Food purchased from restaurants; 30 geographies |
 
 ## Raw columns
 
@@ -33,10 +33,10 @@ Both tables share the same 15 columns. Only the product column name differs: `Pr
 | VECTOR | StatCan series ID, e.g. `v1353834271` | Handy for tracing a series back to StatCan |
 | COORDINATE | Position of the series in the table | Not needed |
 | VALUE | The number | Price in dollars, or CPI index value |
-| STATUS | StatCan data-quality flag | Blank in the rows seen; check for non-blank values during EDA |
-| SYMBOL | StatCan footnote symbol | Blank in the rows seen; check during EDA |
-| TERMINATED | Flag for series that ended | Blank in the rows seen; check during EDA |
-| DECIMALS | Decimal places StatCan reports | 2 for prices, 1 for CPI in the rows seen |
+| STATUS | StatCan data-quality flag | `..` = value not available (37 price rows, VALUE is blank). Blank everywhere else |
+| SYMBOL | StatCan footnote symbol | Always blank in both files |
+| TERMINATED | Flag for series that ended | Always blank: no product series has ended |
+| DECIMALS | Decimal places StatCan reports | 2 for prices, 1 for CPI |
 
 ### Mapping to the shared schema
 
@@ -49,18 +49,35 @@ Both tables share the same 15 columns. Only the product column name differs: `Pr
 | VALUE (prices) | `price` |
 | VALUE (CPI) | `cpi_value` |
 
-## Products in the price sample
+## Products in the price table
 
-Beef: stewing cuts, striploin cuts, top sirloin cuts, rib cuts, ground beef (per kilogram).
-Chicken: whole chicken, breasts, thigh, drumsticks (per kilogram).
-Dairy and eggs: milk 1 litre / 2 litres / 4 litres, soy milk 1.89 litres, nut milk 1.89 litres, butter 454 grams, eggs 1 dozen.
-Bakery and pantry: white bread 675 grams, flatbread and pita 500 grams, crackers and crisp breads 200 grams, roasted or ground coffee 340 grams, peanut butter 1 kilogram.
+110 products. The full list is in the raw file (`Products` column); the groups below are a starting point for the EDA role's `category` column.
 
-Soy milk, nut milk, flatbread, crackers and peanut butter came in only because the fetch script matches on keywords ("milk", "bread", "butter"). Keep or drop them during cleaning.
+- **Meat and fish:** beef (4 cuts + ground), pork (3 cuts), chicken (whole, breasts, thighs, drumsticks), bacon, wieners, salmon, shrimp, canned salmon and tuna
+- **Dairy and eggs:** milk (1, 2, 4 L), cream, butter, margarine, block cheese, yogurt, eggs; plant-based soy milk, nut milk, tofu, meatless burgers
+- **Fresh produce:** about 25 fruits and vegetables (apples, bananas, avocados, lettuce, potatoes, tomatoes…)
+- **Frozen:** vegetables, fries, pizza, strawberries
+- **Bakery, grains and pantry:** bread, flatbread, crackers, cookies, cereal, pasta, rice, flour, sugar, oils, sauces and condiments, canned goods, nuts, coffee, tea, juices
+- **Baby:** baby food, infant formula
+- **Not food (4):** deodorant, shampoo, toothpaste, laundry detergent. Decide in cleaning whether to drop them or keep them in a separate category; they are not groceries in the CPI "food" sense.
 
-## Geography (price sample)
+### Product-name gotchas (for cleaning)
+- **Trailing spaces** in some names, e.g. `"Brown rice, 900 grams "`. Strip whitespace before anything else.
+- **Unit is inside the name** after the last comma (`per kilogram`, `500 grams`, `unit`, `1 dozen`). One exception: `Tea (20 bags)` has no comma.
+- **Same item in two sizes:** onions, oranges and potatoes appear both per kilogram and as a bag (1.36 kg / 4.54 kg). Keep them as separate products.
 
-Canada, the ten provinces, plus two cities: Whitehorse (Yukon) and Yellowknife (Northwest Territories). Nunavut and Iqaluit do not appear in the price sample. The CPI geographies have not been checked yet.
+## Geography
+
+| | Price table (13) | CPI table (30) |
+|---|---|---|
+| Canada | ✓ | ✓ |
+| 10 provinces | ✓ | ✓ |
+| Whitehorse, Yukon / Yellowknife, NWT | ✓ (cities) | ✓ |
+| Iqaluit, Nunavut | ✗ | ✓ |
+| Other cities (Toronto, Vancouver, Montréal…) | ✗ | ✓ (16 cities) |
+
+**Coverage:** every province has all 110 products (Newfoundland and Labrador has 109). Whitehorse has only 59 and Yellowknife only 40, so territory comparisons only work for the products they share.
+**Join rule:** the price geographies are a subset of the CPI geographies with identical names, so they join on `GEO` directly. For province-level comparisons, keep only Canada + the 10 provinces (+ the two territory cities if needed) on the CPI side.
 
 ## Known limitations
 
@@ -69,11 +86,13 @@ Confirmed in the data:
 - [x] The unit of measure is inside the product name in the price table, and units differ (per kilogram, per litre, per dozen, grams), so products are not directly comparable by dollar value.
 - [x] Two territory entries are cities, not whole territories (Whitehorse, Yellowknife), so "province" is not strictly accurate for them. Rule needed in cleaning.
 - [x] CPI is an index (2002=100), not a dollar price. Index both series to 2019 before comparing them.
+- [x] Not every geography has every product: the two territory cities are partial (59 and 40 products).
+- [x] 37 price values are missing (`STATUS = ..`), all in Whitehorse (7) and Yellowknife (30), mostly flatbread, orange juice and white bread.
+- [x] CPI covers 30 geographies including 16 cities and Iqaluit; prices cover 13. Names match exactly where they overlap.
+- [x] No product series starts late or ends early between Jan 2017 and Sep 2026, and nothing is flagged TERMINATED.
+- [x] The price table includes 4 non-food items (deodorant, shampoo, toothpaste, laundry detergent).
 
 Still to verify:
 
-- [ ] Products are added or dropped over time, so some series have gaps.
-- [ ] Prices are averages across stores, not specific stores or brands.
-- [ ] Not every province has every product.
-- [ ] Non-blank STATUS, SYMBOL or TERMINATED values.
-- [ ] CPI geographies and whether they match the price geographies.
+- [ ] Prices are averages across stores, not specific stores or brands (check StatCan's methodology note).
+- [ ] Outliers and sudden jumps in individual series (EDA role).
