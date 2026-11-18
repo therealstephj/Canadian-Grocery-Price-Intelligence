@@ -27,8 +27,8 @@ See [docs/data_dictionary.md](docs/data_dictionary.md) for columns, source log a
 |---|---|---|
 | Project Lead and Data Sourcing | 1 | Stephanie |
 | Data Cleaning and EDA | 2 | Haritha |
-| SQL and Data Modelling | 3 | Danny or Jay (TBD) |
-| Power BI Dashboard | 4a | Danny or Jay (TBD) |
+| SQL and Data Modelling | 3 | Jay |
+| Power BI Dashboard | 4a | Danny |
 | Forecasting and ML | 4b | Samir |
 
 ## Repo structure
