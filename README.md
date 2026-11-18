@@ -26,10 +26,10 @@ See [docs/data_dictionary.md](docs/data_dictionary.md) for columns, source log a
 | Role | Stage | Owner |
 |---|---|---|
 | Project Lead and Data Sourcing | 1 | Stephanie |
-| Data Cleaning and EDA | 2 | TBD |
-| SQL and Data Modelling | 3 | TBD |
-| Power BI Dashboard | 4a | TBD |
-| Forecasting and ML | 4b | TBD |
+| Data Cleaning and EDA | 2 | Haritha |
+| SQL and Data Modelling | 3 | Jay |
+| Power BI Dashboard | 4a | Danny |
+| Forecasting and ML | 4b | Samir |
 
 ## Repo structure
 
@@ -47,7 +47,7 @@ scripts/        helper scripts (data fetch, issue creation)
 ## Getting started
 
 ```bash
-git clone https://github.com/<owner>/Canadian-Grocery-Price-Intelligence.git
+git clone https://github.com/therealstephj/Canadian-Grocery-Price-Intelligence.git
 cd Canadian-Grocery-Price-Intelligence
 python scripts/fetch_statcan.py
 ```
