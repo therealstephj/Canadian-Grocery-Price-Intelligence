@@ -8,13 +8,14 @@ Everything we build should help answer one of these. If a task does not, questio
 | 2 | Has food inflation outpaced overall inflation, and has it slowed down? | Food CPI vs all-items CPI, year-over-year % change; gap in percentage points | CPI (18-10-0004-01) | EDA, SQL |
 | 3 | Which provinces were hit hardest? | Province food CPI % change vs 2019; province rank | CPI by province | SQL, Power BI |
 | 4 | Has the price of groceries risen faster than the price of eating out? | Food from stores CPI vs food from restaurants CPI, indexed to 2019 = 100 | CPI | SQL, Power BI |
-| 5 | Where are staple prices likely heading next year? | 6 to 12 month forecast for 5 to 8 staples; MAE and RMSE vs seasonal-naive baseline | Retail prices | ML |
+| 5 | Where are staple prices likely heading next year? | 6 to 12 month forecast for the 8 agreed staples; MAE and RMSE vs seasonal-naive baseline | Retail prices | ML |
 
 ## Definitions
 
 - **Baseline**: 2019 average (pre-pandemic). Change vs 2019 = (current price / 2019 average price - 1) x 100.
 - **Year-over-year %**: (price this month / price same month last year - 1) x 100.
-- **Staples**: start with beef, eggs, bread, coffee. Final list agreed in week 1.
+- **Staples** (agreed week 1): ground beef, chicken breasts, eggs, milk 4 L, butter, white bread, coffee, bananas. Exact product names in `docs/shared_schema.md`.
+- **Groceries**: every product except the `Household and personal care` category.
 
 ## Out of scope
 
