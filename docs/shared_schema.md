@@ -102,4 +102,4 @@ The 8 items Forecasting & ML forecasts:
 | Coffee | Roasted or ground coffee, 340 grams |
 | Bananas | Bananas, per kilogram |
 
-All 8 have the full Jan 2017 history for Canada and every province.
+All 8 have the full Jan 2017 history for Canada and every province, with one exception: **Milk, 4 litres is not reported for Newfoundland and Labrador** (StatCan publishes 1 L and 2 L milk there). Forecast milk for Canada and the other 9 provinces.
