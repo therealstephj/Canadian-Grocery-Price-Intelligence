@@ -1,0 +1,523 @@
+province,province_code,product,fold,test_start,model,mae,rmse,mape_pct
+Alberta,AB,"Bananas, per kilogram",1,2023-10-01,sarima,0.015,0.017,0.819
+Alberta,AB,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.038,0.041,2.152
+Alberta,AB,"Bananas, per kilogram",2,2024-10-01,sarima,0.012,0.014,0.685
+Alberta,AB,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.008,0.009,0.421
+Alberta,AB,"Bananas, per kilogram",3,2025-10-01,sarima,0.179,0.216,8.755
+Alberta,AB,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.182,0.22,8.9
+Alberta,AB,"Butter, 454 grams",1,2023-10-01,sarima,0.593,0.725,9.72
+Alberta,AB,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.273,0.362,4.449
+Alberta,AB,"Butter, 454 grams",2,2024-10-01,sarima,0.272,0.354,4.604
+Alberta,AB,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.253,0.312,4.221
+Alberta,AB,"Butter, 454 grams",3,2025-10-01,sarima,0.204,0.255,3.439
+Alberta,AB,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.174,0.222,2.887
+Alberta,AB,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.838,1.01,5.169
+Alberta,AB,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.818,1.018,4.937
+Alberta,AB,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.812,0.914,5.025
+Alberta,AB,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.741,0.985,4.47
+Alberta,AB,"Chicken breasts, per kilogram",3,2025-10-01,sarima,1.049,1.127,6.173
+Alberta,AB,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.105,1.415,6.278
+Alberta,AB,"Eggs, 1 dozen",1,2023-10-01,sarima,0.349,0.405,7.187
+Alberta,AB,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.158,0.175,3.248
+Alberta,AB,"Eggs, 1 dozen",2,2024-10-01,sarima,0.174,0.211,3.401
+Alberta,AB,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.186,0.232,3.643
+Alberta,AB,"Eggs, 1 dozen",3,2025-10-01,sarima,0.258,0.272,5.03
+Alberta,AB,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.052,0.062,1.002
+Alberta,AB,"Ground beef, per kilogram",1,2023-10-01,sarima,0.525,0.764,3.905
+Alberta,AB,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.496,1.661,11.609
+Alberta,AB,"Ground beef, per kilogram",2,2024-10-01,sarima,0.404,0.488,2.669
+Alberta,AB,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,2.566,2.634,16.968
+Alberta,AB,"Ground beef, per kilogram",3,2025-10-01,sarima,0.341,0.399,1.988
+Alberta,AB,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,2.015,2.067,11.694
+Alberta,AB,"Milk, 4 litres",1,2023-10-01,sarima,0.109,0.124,1.84
+Alberta,AB,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.073,0.083,1.223
+Alberta,AB,"Milk, 4 litres",2,2024-10-01,sarima,0.043,0.051,0.717
+Alberta,AB,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.167,0.187,2.726
+Alberta,AB,"Milk, 4 litres",3,2025-10-01,sarima,0.099,0.116,1.529
+Alberta,AB,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.358,0.373,5.504
+Alberta,AB,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.396,0.46,6.354
+Alberta,AB,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.253,0.332,3.929
+Alberta,AB,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.78,1.029,9.152
+Alberta,AB,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.403,1.58,17.159
+Alberta,AB,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.969,1.208,10.513
+Alberta,AB,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.452,1.753,15.671
+Alberta,AB,"White bread, 675 grams",1,2023-10-01,sarima,0.293,0.316,8.575
+Alberta,AB,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.204,0.236,6.002
+Alberta,AB,"White bread, 675 grams",2,2024-10-01,sarima,0.052,0.061,1.52
+Alberta,AB,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.11,0.17,3.226
+Alberta,AB,"White bread, 675 grams",3,2025-10-01,sarima,0.112,0.128,3.048
+Alberta,AB,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.208,0.228,5.709
+British Columbia,BC,"Bananas, per kilogram",1,2023-10-01,sarima,0.01,0.011,0.631
+British Columbia,BC,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.057,0.064,3.474
+British Columbia,BC,"Bananas, per kilogram",2,2024-10-01,sarima,0.018,0.02,1.075
+British Columbia,BC,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.012,0.019,0.773
+British Columbia,BC,"Bananas, per kilogram",3,2025-10-01,sarima,0.139,0.165,7.62
+British Columbia,BC,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.142,0.167,7.757
+British Columbia,BC,"Butter, 454 grams",1,2023-10-01,sarima,0.709,0.846,11.581
+British Columbia,BC,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.308,0.361,4.968
+British Columbia,BC,"Butter, 454 grams",2,2024-10-01,sarima,0.309,0.395,5.268
+British Columbia,BC,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.284,0.335,4.766
+British Columbia,BC,"Butter, 454 grams",3,2025-10-01,sarima,0.192,0.241,3.229
+British Columbia,BC,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.181,0.23,3.001
+British Columbia,BC,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.89,1.069,5.402
+British Columbia,BC,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.734,0.904,4.362
+British Columbia,BC,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.847,0.94,5.093
+British Columbia,BC,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.618,0.849,3.676
+British Columbia,BC,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.764,0.872,4.239
+British Columbia,BC,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.154,1.373,6.347
+British Columbia,BC,"Eggs, 1 dozen",1,2023-10-01,sarima,0.391,0.449,7.414
+British Columbia,BC,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.116,0.158,2.198
+British Columbia,BC,"Eggs, 1 dozen",2,2024-10-01,sarima,0.157,0.179,2.821
+British Columbia,BC,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.205,0.25,3.701
+British Columbia,BC,"Eggs, 1 dozen",3,2025-10-01,sarima,0.239,0.25,4.26
+British Columbia,BC,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.073,0.088,1.297
+British Columbia,BC,"Ground beef, per kilogram",1,2023-10-01,sarima,0.569,0.659,4.392
+British Columbia,BC,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.293,1.52,9.845
+British Columbia,BC,"Ground beef, per kilogram",2,2024-10-01,sarima,0.348,0.421,2.304
+British Columbia,BC,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,2.481,2.535,16.333
+British Columbia,BC,"Ground beef, per kilogram",3,2025-10-01,sarima,0.353,0.433,2.018
+British Columbia,BC,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,2.252,2.288,12.877
+British Columbia,BC,"Milk, 4 litres",1,2023-10-01,sarima,0.098,0.113,1.69
+British Columbia,BC,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.106,0.133,1.826
+British Columbia,BC,"Milk, 4 litres",2,2024-10-01,sarima,0.035,0.046,0.59
+British Columbia,BC,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.187,0.199,3.099
+British Columbia,BC,"Milk, 4 litres",3,2025-10-01,sarima,0.036,0.048,0.581
+British Columbia,BC,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.181,0.182,2.924
+British Columbia,BC,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.534,0.576,7.84
+British Columbia,BC,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.23,0.304,3.336
+British Columbia,BC,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.772,1.024,8.677
+British Columbia,BC,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.26,1.43,14.716
+British Columbia,BC,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.913,1.172,9.576
+British Columbia,BC,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.392,1.674,14.54
+British Columbia,BC,"White bread, 675 grams",1,2023-10-01,sarima,0.237,0.256,6.268
+British Columbia,BC,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.137,0.178,3.661
+British Columbia,BC,"White bread, 675 grams",2,2024-10-01,sarima,0.119,0.14,3.178
+British Columbia,BC,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.119,0.15,3.163
+British Columbia,BC,"White bread, 675 grams",3,2025-10-01,sarima,0.117,0.132,2.896
+British Columbia,BC,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.208,0.246,5.153
+Canada,CA,"Bananas, per kilogram",1,2023-10-01,sarima,0.025,0.027,1.498
+Canada,CA,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.043,0.045,2.572
+Canada,CA,"Bananas, per kilogram",2,2024-10-01,sarima,0.024,0.026,1.419
+Canada,CA,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.024,0.027,1.458
+Canada,CA,"Bananas, per kilogram",3,2025-10-01,sarima,0.129,0.155,6.918
+Canada,CA,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.145,0.166,7.814
+Canada,CA,"Butter, 454 grams",1,2023-10-01,sarima,0.525,0.61,9.032
+Canada,CA,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.259,0.322,4.358
+Canada,CA,"Butter, 454 grams",2,2024-10-01,sarima,0.159,0.187,2.806
+Canada,CA,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.217,0.256,3.779
+Canada,CA,"Butter, 454 grams",3,2025-10-01,sarima,0.11,0.134,1.896
+Canada,CA,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.094,0.147,1.622
+Canada,CA,"Chicken breasts, per kilogram",1,2023-10-01,sarima,2.43,2.519,18.299
+Canada,CA,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,1.014,1.165,7.675
+Canada,CA,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.757,0.961,5.275
+Canada,CA,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.758,0.99,5.337
+Canada,CA,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.666,0.747,4.587
+Canada,CA,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,0.898,1.113,6.131
+Canada,CA,"Eggs, 1 dozen",1,2023-10-01,sarima,0.331,0.363,7.361
+Canada,CA,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.113,0.147,2.478
+Canada,CA,"Eggs, 1 dozen",2,2024-10-01,sarima,0.195,0.228,4.003
+Canada,CA,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.329,0.377,6.735
+Canada,CA,"Eggs, 1 dozen",3,2025-10-01,sarima,0.297,0.308,6.177
+Canada,CA,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.084,0.096,1.76
+Canada,CA,"Ground beef, per kilogram",1,2023-10-01,sarima,0.523,0.614,4.209
+Canada,CA,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.348,1.426,10.933
+Canada,CA,"Ground beef, per kilogram",2,2024-10-01,sarima,0.462,0.511,3.231
+Canada,CA,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.936,1.974,13.687
+Canada,CA,"Ground beef, per kilogram",3,2025-10-01,sarima,0.309,0.378,1.942
+Canada,CA,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.928,1.969,12.008
+Canada,CA,"Milk, 4 litres",1,2023-10-01,sarima,0.059,0.079,0.908
+Canada,CA,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.142,0.162,2.164
+Canada,CA,"Milk, 4 litres",2,2024-10-01,sarima,0.116,0.13,1.715
+Canada,CA,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.218,0.228,3.249
+Canada,CA,"Milk, 4 litres",3,2025-10-01,sarima,0.098,0.114,1.413
+Canada,CA,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.209,0.213,3.015
+Canada,CA,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.46,0.501,7.101
+Canada,CA,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.217,0.26,3.309
+Canada,CA,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.838,1.106,9.596
+Canada,CA,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.397,1.586,16.664
+Canada,CA,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.988,1.249,10.514
+Canada,CA,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.422,1.71,15.156
+Canada,CA,"White bread, 675 grams",1,2023-10-01,sarima,0.233,0.247,6.772
+Canada,CA,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.167,0.19,4.861
+Canada,CA,"White bread, 675 grams",2,2024-10-01,sarima,0.05,0.064,1.439
+Canada,CA,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.065,0.083,1.87
+Canada,CA,"White bread, 675 grams",3,2025-10-01,sarima,0.097,0.099,2.685
+Canada,CA,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.12,0.126,3.336
+Manitoba,MB,"Bananas, per kilogram",1,2023-10-01,sarima,0.115,0.129,6.602
+Manitoba,MB,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.074,0.084,4.28
+Manitoba,MB,"Bananas, per kilogram",2,2024-10-01,sarima,0.043,0.047,2.43
+Manitoba,MB,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.038,0.052,2.183
+Manitoba,MB,"Bananas, per kilogram",3,2025-10-01,sarima,0.167,0.201,8.221
+Manitoba,MB,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.184,0.22,9.094
+Manitoba,MB,"Butter, 454 grams",1,2023-10-01,sarima,0.641,0.771,10.697
+Manitoba,MB,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.262,0.36,4.377
+Manitoba,MB,"Butter, 454 grams",2,2024-10-01,sarima,0.335,0.421,5.805
+Manitoba,MB,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.273,0.338,4.644
+Manitoba,MB,"Butter, 454 grams",3,2025-10-01,sarima,0.203,0.259,3.509
+Manitoba,MB,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.174,0.205,2.965
+Manitoba,MB,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.871,0.973,5.581
+Manitoba,MB,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.734,0.925,4.584
+Manitoba,MB,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.835,0.98,5.367
+Manitoba,MB,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.806,1.067,5.046
+Manitoba,MB,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.933,1.07,5.682
+Manitoba,MB,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.205,1.542,7.045
+Manitoba,MB,"Eggs, 1 dozen",1,2023-10-01,sarima,0.33,0.394,7.404
+Manitoba,MB,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.233,0.25,5.13
+Manitoba,MB,"Eggs, 1 dozen",2,2024-10-01,sarima,0.179,0.219,3.785
+Manitoba,MB,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.168,0.241,3.564
+Manitoba,MB,"Eggs, 1 dozen",3,2025-10-01,sarima,0.257,0.272,5.464
+Manitoba,MB,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.053,0.061,1.135
+Manitoba,MB,"Ground beef, per kilogram",1,2023-10-01,sarima,0.584,0.803,4.593
+Manitoba,MB,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.502,1.709,12.187
+Manitoba,MB,"Ground beef, per kilogram",2,2024-10-01,sarima,0.564,0.599,3.836
+Manitoba,MB,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,2.59,2.648,17.787
+Manitoba,MB,"Ground beef, per kilogram",3,2025-10-01,sarima,0.393,0.436,2.378
+Manitoba,MB,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.924,1.984,11.605
+Manitoba,MB,"Milk, 4 litres",1,2023-10-01,sarima,0.181,0.196,3.125
+Manitoba,MB,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.18,0.208,3.11
+Manitoba,MB,"Milk, 4 litres",2,2024-10-01,sarima,0.095,0.11,1.588
+Manitoba,MB,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.189,0.199,3.163
+Manitoba,MB,"Milk, 4 litres",3,2025-10-01,sarima,0.049,0.058,0.799
+Manitoba,MB,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.173,0.174,2.817
+Manitoba,MB,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.403,0.453,6.769
+Manitoba,MB,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.246,0.313,4.008
+Manitoba,MB,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.917,1.179,11.165
+Manitoba,MB,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.444,1.625,18.275
+Manitoba,MB,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.968,1.207,10.887
+Manitoba,MB,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.417,1.732,15.812
+Manitoba,MB,"White bread, 675 grams",1,2023-10-01,sarima,0.252,0.281,7.703
+Manitoba,MB,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.16,0.178,4.858
+Manitoba,MB,"White bread, 675 grams",2,2024-10-01,sarima,0.055,0.078,1.663
+Manitoba,MB,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.137,0.179,4.204
+Manitoba,MB,"White bread, 675 grams",3,2025-10-01,sarima,0.235,0.264,6.487
+Manitoba,MB,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.3,0.33,8.309
+New Brunswick,NB,"Bananas, per kilogram",1,2023-10-01,sarima,0.047,0.054,2.207
+New Brunswick,NB,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.027,0.037,1.251
+New Brunswick,NB,"Bananas, per kilogram",2,2024-10-01,sarima,0.097,0.099,4.737
+New Brunswick,NB,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.075,0.082,3.654
+New Brunswick,NB,"Bananas, per kilogram",3,2025-10-01,sarima,0.083,0.086,3.892
+New Brunswick,NB,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.083,0.094,3.814
+New Brunswick,NB,"Butter, 454 grams",1,2023-10-01,sarima,0.321,0.388,5.425
+New Brunswick,NB,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.275,0.349,4.532
+New Brunswick,NB,"Butter, 454 grams",2,2024-10-01,sarima,0.386,0.45,6.64
+New Brunswick,NB,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.17,0.263,2.901
+New Brunswick,NB,"Butter, 454 grams",3,2025-10-01,sarima,0.196,0.257,3.35
+New Brunswick,NB,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.187,0.262,3.097
+New Brunswick,NB,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.829,0.988,6.393
+New Brunswick,NB,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.67,0.782,4.964
+New Brunswick,NB,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.566,0.669,3.944
+New Brunswick,NB,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,1.062,1.225,7.23
+New Brunswick,NB,"Chicken breasts, per kilogram",3,2025-10-01,sarima,1.064,1.33,7.111
+New Brunswick,NB,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.45,1.799,9.209
+New Brunswick,NB,"Eggs, 1 dozen",1,2023-10-01,sarima,0.187,0.228,3.924
+New Brunswick,NB,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.309,0.394,6.384
+New Brunswick,NB,"Eggs, 1 dozen",2,2024-10-01,sarima,0.088,0.11,1.67
+New Brunswick,NB,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.506,0.57,9.604
+New Brunswick,NB,"Eggs, 1 dozen",3,2025-10-01,sarima,0.5,0.526,9.631
+New Brunswick,NB,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.093,0.107,1.798
+New Brunswick,NB,"Ground beef, per kilogram",1,2023-10-01,sarima,0.537,0.634,4.496
+New Brunswick,NB,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.308,1.451,10.824
+New Brunswick,NB,"Ground beef, per kilogram",2,2024-10-01,sarima,0.549,0.674,3.873
+New Brunswick,NB,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.777,1.842,12.797
+New Brunswick,NB,"Ground beef, per kilogram",3,2025-10-01,sarima,0.457,0.527,2.876
+New Brunswick,NB,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.978,2.045,12.498
+New Brunswick,NB,"Milk, 4 litres",1,2023-10-01,sarima,0.11,0.132,1.311
+New Brunswick,NB,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.139,0.162,1.66
+New Brunswick,NB,"Milk, 4 litres",2,2024-10-01,sarima,0.065,0.082,0.761
+New Brunswick,NB,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.156,0.167,1.828
+New Brunswick,NB,"Milk, 4 litres",3,2025-10-01,sarima,0.037,0.041,0.424
+New Brunswick,NB,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.15,0.156,1.724
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.759,0.848,11.204
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.397,0.446,5.815
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.725,0.886,8.329
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.277,1.51,14.625
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.712,0.827,7.372
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.446,1.725,15.013
+New Brunswick,NB,"White bread, 675 grams",1,2023-10-01,sarima,0.293,0.317,7.845
+New Brunswick,NB,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.057,0.07,1.52
+New Brunswick,NB,"White bread, 675 grams",2,2024-10-01,sarima,0.113,0.144,3.056
+New Brunswick,NB,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.055,0.063,1.473
+New Brunswick,NB,"White bread, 675 grams",3,2025-10-01,sarima,0.065,0.075,1.692
+New Brunswick,NB,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.075,0.086,1.969
+Newfoundland and Labrador,NL,"Bananas, per kilogram",1,2023-10-01,sarima,0.032,0.038,1.506
+Newfoundland and Labrador,NL,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.017,0.021,0.81
+Newfoundland and Labrador,NL,"Bananas, per kilogram",2,2024-10-01,sarima,0.012,0.015,0.564
+Newfoundland and Labrador,NL,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.017,0.023,0.765
+Newfoundland and Labrador,NL,"Bananas, per kilogram",3,2025-10-01,sarima,0.376,0.45,13.767
+Newfoundland and Labrador,NL,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.387,0.458,14.204
+Newfoundland and Labrador,NL,"Butter, 454 grams",1,2023-10-01,sarima,0.377,0.477,6.225
+Newfoundland and Labrador,NL,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.262,0.32,4.197
+Newfoundland and Labrador,NL,"Butter, 454 grams",2,2024-10-01,sarima,0.281,0.34,4.66
+Newfoundland and Labrador,NL,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.144,0.217,2.367
+Newfoundland and Labrador,NL,"Butter, 454 grams",3,2025-10-01,sarima,0.216,0.272,3.589
+Newfoundland and Labrador,NL,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.24,0.277,3.957
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.543,0.638,3.787
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.882,1.022,6.062
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.453,0.569,3.018
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.637,0.914,4.096
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.407,0.51,2.642
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,0.775,0.948,4.884
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",1,2023-10-01,sarima,0.396,0.462,7.886
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.27,0.343,5.324
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",2,2024-10-01,sarima,0.185,0.224,3.428
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.299,0.361,5.52
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",3,2025-10-01,sarima,0.386,0.404,7.135
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.07,0.093,1.3
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",1,2023-10-01,sarima,0.477,0.595,3.993
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.496,1.617,12.411
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",2,2024-10-01,sarima,0.756,0.857,5.322
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.896,1.975,13.485
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",3,2025-10-01,sarima,0.445,0.585,2.852
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.754,1.817,11.144
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.851,0.962,12.352
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.56,0.59,7.996
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.758,0.992,8.461
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.259,1.476,14.37
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.597,0.737,6.119
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.548,1.828,15.768
+Newfoundland and Labrador,NL,"White bread, 675 grams",1,2023-10-01,sarima,0.239,0.268,5.998
+Newfoundland and Labrador,NL,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.098,0.112,2.446
+Newfoundland and Labrador,NL,"White bread, 675 grams",2,2024-10-01,sarima,0.134,0.169,3.349
+Newfoundland and Labrador,NL,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.086,0.106,2.121
+Newfoundland and Labrador,NL,"White bread, 675 grams",3,2025-10-01,sarima,0.05,0.058,1.197
+Newfoundland and Labrador,NL,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.112,0.132,2.708
+Nova Scotia,NS,"Bananas, per kilogram",1,2023-10-01,sarima,0.055,0.062,2.572
+Nova Scotia,NS,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.036,0.041,1.678
+Nova Scotia,NS,"Bananas, per kilogram",2,2024-10-01,sarima,0.107,0.109,5.221
+Nova Scotia,NS,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.086,0.093,4.207
+Nova Scotia,NS,"Bananas, per kilogram",3,2025-10-01,sarima,0.094,0.096,4.443
+Nova Scotia,NS,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.088,0.094,4.169
+Nova Scotia,NS,"Butter, 454 grams",1,2023-10-01,sarima,0.32,0.39,5.491
+Nova Scotia,NS,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.283,0.344,4.734
+Nova Scotia,NS,"Butter, 454 grams",2,2024-10-01,sarima,0.355,0.419,6.172
+Nova Scotia,NS,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.143,0.214,2.461
+Nova Scotia,NS,"Butter, 454 grams",3,2025-10-01,sarima,0.215,0.265,3.754
+Nova Scotia,NS,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.154,0.225,2.599
+Nova Scotia,NS,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.649,0.787,4.837
+Nova Scotia,NS,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.649,0.78,4.573
+Nova Scotia,NS,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.601,0.766,4.149
+Nova Scotia,NS,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,1.078,1.301,7.06
+Nova Scotia,NS,"Chicken breasts, per kilogram",3,2025-10-01,sarima,1.49,1.805,9.757
+Nova Scotia,NS,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.751,2.106,10.771
+Nova Scotia,NS,"Eggs, 1 dozen",1,2023-10-01,sarima,0.16,0.235,3.181
+Nova Scotia,NS,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.368,0.437,7.235
+Nova Scotia,NS,"Eggs, 1 dozen",2,2024-10-01,sarima,0.187,0.229,3.455
+Nova Scotia,NS,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.32,0.375,5.912
+Nova Scotia,NS,"Eggs, 1 dozen",3,2025-10-01,sarima,0.464,0.492,8.684
+Nova Scotia,NS,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.091,0.103,1.7
+Nova Scotia,NS,"Ground beef, per kilogram",1,2023-10-01,sarima,0.833,1.142,7.688
+Nova Scotia,NS,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.196,1.303,10.069
+Nova Scotia,NS,"Ground beef, per kilogram",2,2024-10-01,sarima,0.586,0.693,4.115
+Nova Scotia,NS,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,2.119,2.281,15.145
+Nova Scotia,NS,"Ground beef, per kilogram",3,2025-10-01,sarima,0.496,0.61,3.151
+Nova Scotia,NS,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.85,1.952,11.61
+Nova Scotia,NS,"Milk, 4 litres",1,2023-10-01,sarima,0.214,0.258,3.04
+Nova Scotia,NS,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.257,0.298,3.641
+Nova Scotia,NS,"Milk, 4 litres",2,2024-10-01,sarima,0.134,0.182,1.85
+Nova Scotia,NS,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.197,0.253,2.708
+Nova Scotia,NS,"Milk, 4 litres",3,2025-10-01,sarima,0.063,0.083,0.862
+Nova Scotia,NS,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.028,0.031,0.378
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.795,0.89,10.974
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.411,0.473,5.62
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.719,0.995,7.64
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.212,1.446,13.306
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.522,0.611,5.182
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.452,1.671,14.519
+Nova Scotia,NS,"White bread, 675 grams",1,2023-10-01,sarima,0.346,0.388,9.523
+Nova Scotia,NS,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.098,0.13,2.714
+Nova Scotia,NS,"White bread, 675 grams",2,2024-10-01,sarima,0.109,0.137,3.022
+Nova Scotia,NS,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.097,0.114,2.697
+Nova Scotia,NS,"White bread, 675 grams",3,2025-10-01,sarima,0.101,0.122,2.679
+Nova Scotia,NS,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.132,0.144,3.51
+Ontario,ON,"Bananas, per kilogram",1,2023-10-01,sarima,0.039,0.044,2.72
+Ontario,ON,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.033,0.035,2.242
+Ontario,ON,"Bananas, per kilogram",2,2024-10-01,sarima,0.047,0.054,3.14
+Ontario,ON,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.047,0.051,3.114
+Ontario,ON,"Bananas, per kilogram",3,2025-10-01,sarima,0.115,0.136,6.778
+Ontario,ON,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.147,0.16,8.78
+Ontario,ON,"Butter, 454 grams",1,2023-10-01,sarima,0.541,0.625,9.373
+Ontario,ON,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.299,0.364,5.069
+Ontario,ON,"Butter, 454 grams",2,2024-10-01,sarima,0.259,0.3,4.632
+Ontario,ON,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.271,0.314,4.812
+Ontario,ON,"Butter, 454 grams",3,2025-10-01,sarima,0.157,0.183,2.758
+Ontario,ON,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.169,0.209,2.937
+Ontario,ON,"Chicken breasts, per kilogram",1,2023-10-01,sarima,2.243,2.43,17.459
+Ontario,ON,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,1.303,1.574,10.16
+Ontario,ON,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.643,0.816,4.705
+Ontario,ON,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.936,1.166,6.901
+Ontario,ON,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.809,0.881,5.902
+Ontario,ON,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,0.722,1.015,5.106
+Ontario,ON,"Eggs, 1 dozen",1,2023-10-01,sarima,0.255,0.296,5.429
+Ontario,ON,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.141,0.17,2.961
+Ontario,ON,"Eggs, 1 dozen",2,2024-10-01,sarima,0.244,0.27,5.032
+Ontario,ON,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.119,0.153,2.461
+Ontario,ON,"Eggs, 1 dozen",3,2025-10-01,sarima,0.099,0.118,1.979
+Ontario,ON,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.133,0.138,2.66
+Ontario,ON,"Ground beef, per kilogram",1,2023-10-01,sarima,0.802,1.015,6.289
+Ontario,ON,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.743,1.853,14.123
+Ontario,ON,"Ground beef, per kilogram",2,2024-10-01,sarima,0.739,0.844,5.515
+Ontario,ON,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.636,1.686,11.93
+Ontario,ON,"Ground beef, per kilogram",3,2025-10-01,sarima,0.387,0.467,2.454
+Ontario,ON,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,2.19,2.252,13.75
+Ontario,ON,"Milk, 4 litres",1,2023-10-01,sarima,0.073,0.094,1.149
+Ontario,ON,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.198,0.223,3.087
+Ontario,ON,"Milk, 4 litres",2,2024-10-01,sarima,0.193,0.215,2.901
+Ontario,ON,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.241,0.254,3.637
+Ontario,ON,"Milk, 4 litres",3,2025-10-01,sarima,0.194,0.209,2.835
+Ontario,ON,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.205,0.208,2.999
+Ontario,ON,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.49,0.531,7.638
+Ontario,ON,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.248,0.287,3.801
+Ontario,ON,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.826,1.081,9.624
+Ontario,ON,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.36,1.549,16.431
+Ontario,ON,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.828,1.036,8.9
+Ontario,ON,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.444,1.715,15.542
+Ontario,ON,"White bread, 675 grams",1,2023-10-01,sarima,0.113,0.134,3.745
+Ontario,ON,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.072,0.091,2.383
+Ontario,ON,"White bread, 675 grams",2,2024-10-01,sarima,0.061,0.071,1.994
+Ontario,ON,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.043,0.06,1.423
+Ontario,ON,"White bread, 675 grams",3,2025-10-01,sarima,0.131,0.133,4.05
+Ontario,ON,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.173,0.177,5.348
+Prince Edward Island,PE,"Bananas, per kilogram",1,2023-10-01,sarima,0.086,0.096,4.07
+Prince Edward Island,PE,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.05,0.057,2.359
+Prince Edward Island,PE,"Bananas, per kilogram",2,2024-10-01,sarima,0.103,0.106,5.043
+Prince Edward Island,PE,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.083,0.094,4.097
+Prince Edward Island,PE,"Bananas, per kilogram",3,2025-10-01,sarima,0.097,0.102,4.577
+Prince Edward Island,PE,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.084,0.092,3.962
+Prince Edward Island,PE,"Butter, 454 grams",1,2023-10-01,sarima,0.589,0.664,10.346
+Prince Edward Island,PE,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.297,0.384,5.079
+Prince Edward Island,PE,"Butter, 454 grams",2,2024-10-01,sarima,0.397,0.455,6.951
+Prince Edward Island,PE,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.193,0.247,3.338
+Prince Edward Island,PE,"Butter, 454 grams",3,2025-10-01,sarima,0.275,0.321,4.882
+Prince Edward Island,PE,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.182,0.252,3.145
+Prince Edward Island,PE,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.757,0.937,5.629
+Prince Edward Island,PE,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.668,0.819,4.632
+Prince Edward Island,PE,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.745,0.954,5.27
+Prince Edward Island,PE,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.832,1.032,5.498
+Prince Edward Island,PE,"Chicken breasts, per kilogram",3,2025-10-01,sarima,1.382,1.684,9.123
+Prince Edward Island,PE,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.648,1.936,10.318
+Prince Edward Island,PE,"Eggs, 1 dozen",1,2023-10-01,sarima,0.164,0.228,3.326
+Prince Edward Island,PE,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.337,0.389,6.686
+Prince Edward Island,PE,"Eggs, 1 dozen",2,2024-10-01,sarima,0.195,0.232,3.631
+Prince Edward Island,PE,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.313,0.366,5.855
+Prince Edward Island,PE,"Eggs, 1 dozen",3,2025-10-01,sarima,0.479,0.503,9.125
+Prince Edward Island,PE,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.13,0.141,2.473
+Prince Edward Island,PE,"Ground beef, per kilogram",1,2023-10-01,sarima,0.638,0.695,5.302
+Prince Edward Island,PE,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.281,1.454,10.571
+Prince Edward Island,PE,"Ground beef, per kilogram",2,2024-10-01,sarima,0.563,0.7,3.98
+Prince Edward Island,PE,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.793,1.86,12.828
+Prince Edward Island,PE,"Ground beef, per kilogram",3,2025-10-01,sarima,0.376,0.431,2.416
+Prince Edward Island,PE,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.613,1.699,10.352
+Prince Edward Island,PE,"Milk, 4 litres",1,2023-10-01,sarima,0.121,0.195,1.388
+Prince Edward Island,PE,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.276,0.296,3.099
+Prince Edward Island,PE,"Milk, 4 litres",2,2024-10-01,sarima,0.083,0.109,0.902
+Prince Edward Island,PE,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.26,0.3,2.841
+Prince Edward Island,PE,"Milk, 4 litres",3,2025-10-01,sarima,0.177,0.193,1.906
+Prince Edward Island,PE,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.133,0.134,1.428
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.7,0.784,10.461
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.378,0.427,5.486
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.769,1.053,8.391
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.417,1.652,16.056
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.946,1.053,9.702
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.385,1.645,14.47
+Prince Edward Island,PE,"White bread, 675 grams",1,2023-10-01,sarima,0.284,0.318,7.693
+Prince Edward Island,PE,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.103,0.119,2.783
+Prince Edward Island,PE,"White bread, 675 grams",2,2024-10-01,sarima,0.158,0.192,4.338
+Prince Edward Island,PE,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.078,0.099,2.153
+Prince Edward Island,PE,"White bread, 675 grams",3,2025-10-01,sarima,0.059,0.075,1.549
+Prince Edward Island,PE,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.114,0.132,3.019
+Quebec,QC,"Bananas, per kilogram",1,2023-10-01,sarima,0.047,0.051,2.62
+Quebec,QC,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.047,0.05,2.614
+Quebec,QC,"Bananas, per kilogram",2,2024-10-01,sarima,0.01,0.012,0.575
+Quebec,QC,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.019,0.026,1.081
+Quebec,QC,"Bananas, per kilogram",3,2025-10-01,sarima,0.113,0.134,5.796
+Quebec,QC,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.12,0.144,6.135
+Quebec,QC,"Butter, 454 grams",1,2023-10-01,sarima,0.89,0.972,15.791
+Quebec,QC,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.428,0.493,7.495
+Quebec,QC,"Butter, 454 grams",2,2024-10-01,sarima,0.09,0.126,1.632
+Quebec,QC,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.165,0.188,2.961
+Quebec,QC,"Butter, 454 grams",3,2025-10-01,sarima,0.128,0.16,2.295
+Quebec,QC,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.158,0.195,2.836
+Quebec,QC,"Chicken breasts, per kilogram",1,2023-10-01,sarima,2.661,2.743,22.081
+Quebec,QC,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,1.729,2.058,14.333
+Quebec,QC,"Chicken breasts, per kilogram",2,2024-10-01,sarima,1.847,2.258,13.288
+Quebec,QC,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,1.236,1.555,8.935
+Quebec,QC,"Chicken breasts, per kilogram",3,2025-10-01,sarima,0.87,1.038,6.258
+Quebec,QC,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.328,1.546,9.396
+Quebec,QC,"Eggs, 1 dozen",1,2023-10-01,sarima,0.25,0.283,6.602
+Quebec,QC,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.248,0.308,6.331
+Quebec,QC,"Eggs, 1 dozen",2,2024-10-01,sarima,0.242,0.268,5.428
+Quebec,QC,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.666,0.742,14.751
+Quebec,QC,"Eggs, 1 dozen",3,2025-10-01,sarima,0.55,0.558,13.261
+Quebec,QC,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.336,0.361,8.08
+Quebec,QC,"Ground beef, per kilogram",1,2023-10-01,sarima,0.707,0.991,5.491
+Quebec,QC,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.332,1.489,10.706
+Quebec,QC,"Ground beef, per kilogram",2,2024-10-01,sarima,1.07,1.187,7.378
+Quebec,QC,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,1.798,2.02,12.514
+Quebec,QC,"Ground beef, per kilogram",3,2025-10-01,sarima,0.59,0.755,3.714
+Quebec,QC,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,1.647,1.768,10.412
+Quebec,QC,"Milk, 4 litres",1,2023-10-01,sarima,0.139,0.164,1.758
+Quebec,QC,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.137,0.18,1.683
+Quebec,QC,"Milk, 4 litres",2,2024-10-01,sarima,0.104,0.145,1.25
+Quebec,QC,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.267,0.295,3.236
+Quebec,QC,"Milk, 4 litres",3,2025-10-01,sarima,0.038,0.044,0.448
+Quebec,QC,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.176,0.182,2.079
+Quebec,QC,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.527,0.556,8.071
+Quebec,QC,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.221,0.263,3.316
+Quebec,QC,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.929,1.233,10.371
+Quebec,QC,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.566,1.762,18.312
+Quebec,QC,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,1.119,1.279,11.808
+Quebec,QC,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.465,1.733,15.344
+Quebec,QC,"White bread, 675 grams",1,2023-10-01,sarima,0.698,0.74,18.353
+Quebec,QC,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.447,0.469,11.677
+Quebec,QC,"White bread, 675 grams",2,2024-10-01,sarima,0.148,0.162,3.819
+Quebec,QC,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.123,0.17,3.159
+Quebec,QC,"White bread, 675 grams",3,2025-10-01,sarima,0.088,0.099,2.212
+Quebec,QC,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.098,0.111,2.451
+Saskatchewan,SK,"Bananas, per kilogram",1,2023-10-01,sarima,0.011,0.013,0.64
+Saskatchewan,SK,"Bananas, per kilogram",1,2023-10-01,seasonal_naive,0.036,0.046,2.028
+Saskatchewan,SK,"Bananas, per kilogram",2,2024-10-01,sarima,0.02,0.021,1.111
+Saskatchewan,SK,"Bananas, per kilogram",2,2024-10-01,seasonal_naive,0.012,0.014,0.662
+Saskatchewan,SK,"Bananas, per kilogram",3,2025-10-01,sarima,0.176,0.211,8.759
+Saskatchewan,SK,"Bananas, per kilogram",3,2025-10-01,seasonal_naive,0.176,0.209,8.742
+Saskatchewan,SK,"Butter, 454 grams",1,2023-10-01,sarima,0.59,0.718,9.889
+Saskatchewan,SK,"Butter, 454 grams",1,2023-10-01,seasonal_naive,0.294,0.374,4.872
+Saskatchewan,SK,"Butter, 454 grams",2,2024-10-01,sarima,0.32,0.408,5.57
+Saskatchewan,SK,"Butter, 454 grams",2,2024-10-01,seasonal_naive,0.243,0.31,4.164
+Saskatchewan,SK,"Butter, 454 grams",3,2025-10-01,sarima,0.202,0.249,3.475
+Saskatchewan,SK,"Butter, 454 grams",3,2025-10-01,seasonal_naive,0.185,0.228,3.141
+Saskatchewan,SK,"Chicken breasts, per kilogram",1,2023-10-01,sarima,0.589,0.863,3.805
+Saskatchewan,SK,"Chicken breasts, per kilogram",1,2023-10-01,seasonal_naive,0.787,1.057,4.89
+Saskatchewan,SK,"Chicken breasts, per kilogram",2,2024-10-01,sarima,0.755,0.891,4.901
+Saskatchewan,SK,"Chicken breasts, per kilogram",2,2024-10-01,seasonal_naive,0.986,1.238,6.232
+Saskatchewan,SK,"Chicken breasts, per kilogram",3,2025-10-01,sarima,1.126,1.28,6.945
+Saskatchewan,SK,"Chicken breasts, per kilogram",3,2025-10-01,seasonal_naive,1.37,1.687,8.06
+Saskatchewan,SK,"Eggs, 1 dozen",1,2023-10-01,sarima,0.307,0.366,6.86
+Saskatchewan,SK,"Eggs, 1 dozen",1,2023-10-01,seasonal_naive,0.172,0.184,3.791
+Saskatchewan,SK,"Eggs, 1 dozen",2,2024-10-01,sarima,0.157,0.189,3.317
+Saskatchewan,SK,"Eggs, 1 dozen",2,2024-10-01,seasonal_naive,0.168,0.232,3.542
+Saskatchewan,SK,"Eggs, 1 dozen",3,2025-10-01,sarima,0.252,0.263,5.328
+Saskatchewan,SK,"Eggs, 1 dozen",3,2025-10-01,seasonal_naive,0.049,0.056,1.044
+Saskatchewan,SK,"Ground beef, per kilogram",1,2023-10-01,sarima,0.466,0.56,3.938
+Saskatchewan,SK,"Ground beef, per kilogram",1,2023-10-01,seasonal_naive,1.358,1.508,11.206
+Saskatchewan,SK,"Ground beef, per kilogram",2,2024-10-01,sarima,0.27,0.321,1.917
+Saskatchewan,SK,"Ground beef, per kilogram",2,2024-10-01,seasonal_naive,2.348,2.384,16.631
+Saskatchewan,SK,"Ground beef, per kilogram",3,2025-10-01,sarima,0.318,0.377,1.964
+Saskatchewan,SK,"Ground beef, per kilogram",3,2025-10-01,seasonal_naive,2.112,2.154,12.956
+Saskatchewan,SK,"Milk, 4 litres",1,2023-10-01,sarima,0.115,0.126,1.99
+Saskatchewan,SK,"Milk, 4 litres",1,2023-10-01,seasonal_naive,0.134,0.153,2.316
+Saskatchewan,SK,"Milk, 4 litres",2,2024-10-01,sarima,0.047,0.057,0.8
+Saskatchewan,SK,"Milk, 4 litres",2,2024-10-01,seasonal_naive,0.203,0.213,3.396
+Saskatchewan,SK,"Milk, 4 litres",3,2025-10-01,sarima,0.103,0.117,1.62
+Saskatchewan,SK,"Milk, 4 litres",3,2025-10-01,seasonal_naive,0.356,0.37,5.583
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",1,2023-10-01,sarima,0.31,0.355,5.428
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",1,2023-10-01,seasonal_naive,0.246,0.309,4.118
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",2,2024-10-01,sarima,0.788,1.055,9.782
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",2,2024-10-01,seasonal_naive,1.45,1.626,18.873
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",3,2025-10-01,sarima,0.975,1.218,11.25
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",3,2025-10-01,seasonal_naive,1.418,1.739,16.211
+Saskatchewan,SK,"White bread, 675 grams",1,2023-10-01,sarima,0.277,0.307,8.245
+Saskatchewan,SK,"White bread, 675 grams",1,2023-10-01,seasonal_naive,0.2,0.213,5.885
+Saskatchewan,SK,"White bread, 675 grams",2,2024-10-01,sarima,0.053,0.066,1.592
+Saskatchewan,SK,"White bread, 675 grams",2,2024-10-01,seasonal_naive,0.135,0.182,4.055
+Saskatchewan,SK,"White bread, 675 grams",3,2025-10-01,sarima,0.169,0.191,4.605
+Saskatchewan,SK,"White bread, 675 grams",3,2025-10-01,seasonal_naive,0.277,0.298,7.591

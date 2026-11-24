@@ -1,0 +1,8 @@
+# Python packages for the notebooks and models. Install with:
+#   python -m venv .venv && .venv/bin/pip install -r requirements.txt
+pandas>=2.2
+numpy>=2.0
+statsmodels>=0.14
+scikit-learn>=1.4
+matplotlib>=3.8
+jupyter
