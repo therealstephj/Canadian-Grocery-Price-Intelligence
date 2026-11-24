@@ -1,0 +1,262 @@
+province,province_code,product,fold,test_start,model,mae,rmse,mape_pct
+Alberta,AB,"Bananas, per kilogram",1,2023-10-01,gbm,0.015,0.016,0.838
+Alberta,AB,"Butter, 454 grams",1,2023-10-01,gbm,0.49,0.587,8.018
+Alberta,AB,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.547,0.808,3.33
+Alberta,AB,"Eggs, 1 dozen",1,2023-10-01,gbm,0.098,0.166,2.064
+Alberta,AB,"Ground beef, per kilogram",1,2023-10-01,gbm,0.878,1.221,6.486
+Alberta,AB,"Milk, 4 litres",1,2023-10-01,gbm,0.091,0.111,1.536
+Alberta,AB,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.289,0.337,4.599
+Alberta,AB,"White bread, 675 grams",1,2023-10-01,gbm,0.282,0.308,8.303
+British Columbia,BC,"Bananas, per kilogram",1,2023-10-01,gbm,0.041,0.045,2.54
+British Columbia,BC,"Butter, 454 grams",1,2023-10-01,gbm,0.55,0.649,8.99
+British Columbia,BC,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.556,0.682,3.328
+British Columbia,BC,"Eggs, 1 dozen",1,2023-10-01,gbm,0.252,0.308,4.82
+British Columbia,BC,"Ground beef, per kilogram",1,2023-10-01,gbm,0.8,1.089,5.896
+British Columbia,BC,"Milk, 4 litres",1,2023-10-01,gbm,0.076,0.099,1.31
+British Columbia,BC,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.337,0.409,5.02
+British Columbia,BC,"White bread, 675 grams",1,2023-10-01,gbm,0.156,0.174,4.116
+Canada,CA,"Bananas, per kilogram",1,2023-10-01,gbm,0.043,0.046,2.605
+Canada,CA,"Butter, 454 grams",1,2023-10-01,gbm,0.417,0.491,7.202
+Canada,CA,"Chicken breasts, per kilogram",1,2023-10-01,gbm,2.322,2.388,17.484
+Canada,CA,"Eggs, 1 dozen",1,2023-10-01,gbm,0.252,0.29,5.656
+Canada,CA,"Ground beef, per kilogram",1,2023-10-01,gbm,0.635,0.785,5.016
+Canada,CA,"Milk, 4 litres",1,2023-10-01,gbm,0.064,0.086,0.985
+Canada,CA,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.287,0.358,4.499
+Canada,CA,"White bread, 675 grams",1,2023-10-01,gbm,0.173,0.183,5.022
+Manitoba,MB,"Bananas, per kilogram",1,2023-10-01,gbm,0.068,0.077,3.881
+Manitoba,MB,"Butter, 454 grams",1,2023-10-01,gbm,0.454,0.551,7.578
+Manitoba,MB,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.514,0.671,3.235
+Manitoba,MB,"Eggs, 1 dozen",1,2023-10-01,gbm,0.17,0.249,3.893
+Manitoba,MB,"Ground beef, per kilogram",1,2023-10-01,gbm,1.144,1.438,9.004
+Manitoba,MB,"Milk, 4 litres",1,2023-10-01,gbm,0.14,0.173,2.419
+Manitoba,MB,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.26,0.306,4.358
+Manitoba,MB,"White bread, 675 grams",1,2023-10-01,gbm,0.275,0.312,8.455
+New Brunswick,NB,"Bananas, per kilogram",1,2023-10-01,gbm,0.016,0.022,0.728
+New Brunswick,NB,"Butter, 454 grams",1,2023-10-01,gbm,0.325,0.37,5.44
+New Brunswick,NB,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.681,0.862,5.264
+New Brunswick,NB,"Eggs, 1 dozen",1,2023-10-01,gbm,0.197,0.223,4.167
+New Brunswick,NB,"Ground beef, per kilogram",1,2023-10-01,gbm,0.482,0.654,3.851
+New Brunswick,NB,"Milk, 4 litres",1,2023-10-01,gbm,0.127,0.163,1.517
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.499,0.65,7.532
+New Brunswick,NB,"White bread, 675 grams",1,2023-10-01,gbm,0.135,0.144,3.621
+Newfoundland and Labrador,NL,"Bananas, per kilogram",1,2023-10-01,gbm,0.015,0.019,0.675
+Newfoundland and Labrador,NL,"Butter, 454 grams",1,2023-10-01,gbm,0.297,0.368,4.887
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.421,0.497,2.928
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",1,2023-10-01,gbm,0.138,0.188,2.785
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",1,2023-10-01,gbm,0.424,0.51,3.456
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.617,0.775,9.075
+Newfoundland and Labrador,NL,"White bread, 675 grams",1,2023-10-01,gbm,0.083,0.115,2.113
+Nova Scotia,NS,"Bananas, per kilogram",1,2023-10-01,gbm,0.026,0.028,1.23
+Nova Scotia,NS,"Butter, 454 grams",1,2023-10-01,gbm,0.307,0.351,5.215
+Nova Scotia,NS,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.634,0.705,4.65
+Nova Scotia,NS,"Eggs, 1 dozen",1,2023-10-01,gbm,0.181,0.222,3.513
+Nova Scotia,NS,"Ground beef, per kilogram",1,2023-10-01,gbm,0.578,0.912,5.391
+Nova Scotia,NS,"Milk, 4 litres",1,2023-10-01,gbm,0.221,0.273,3.148
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.564,0.714,7.903
+Nova Scotia,NS,"White bread, 675 grams",1,2023-10-01,gbm,0.187,0.22,5.186
+Ontario,ON,"Bananas, per kilogram",1,2023-10-01,gbm,0.04,0.043,2.727
+Ontario,ON,"Butter, 454 grams",1,2023-10-01,gbm,0.431,0.51,7.503
+Ontario,ON,"Chicken breasts, per kilogram",1,2023-10-01,gbm,1.874,2.055,14.626
+Ontario,ON,"Eggs, 1 dozen",1,2023-10-01,gbm,0.18,0.22,3.868
+Ontario,ON,"Ground beef, per kilogram",1,2023-10-01,gbm,0.895,1.14,7.002
+Ontario,ON,"Milk, 4 litres",1,2023-10-01,gbm,0.096,0.117,1.517
+Ontario,ON,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.259,0.334,4.083
+Ontario,ON,"White bread, 675 grams",1,2023-10-01,gbm,0.05,0.062,1.653
+Prince Edward Island,PE,"Bananas, per kilogram",1,2023-10-01,gbm,0.044,0.05,2.091
+Prince Edward Island,PE,"Butter, 454 grams",1,2023-10-01,gbm,0.301,0.341,5.209
+Prince Edward Island,PE,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.667,0.791,4.896
+Prince Edward Island,PE,"Eggs, 1 dozen",1,2023-10-01,gbm,0.148,0.174,2.911
+Prince Edward Island,PE,"Ground beef, per kilogram",1,2023-10-01,gbm,0.364,0.486,2.921
+Prince Edward Island,PE,"Milk, 4 litres",1,2023-10-01,gbm,0.266,0.333,3.015
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.453,0.583,6.891
+Prince Edward Island,PE,"White bread, 675 grams",1,2023-10-01,gbm,0.142,0.163,3.854
+Quebec,QC,"Bananas, per kilogram",1,2023-10-01,gbm,0.043,0.048,2.386
+Quebec,QC,"Butter, 454 grams",1,2023-10-01,gbm,0.409,0.473,7.325
+Quebec,QC,"Chicken breasts, per kilogram",1,2023-10-01,gbm,2.884,2.931,23.92
+Quebec,QC,"Eggs, 1 dozen",1,2023-10-01,gbm,0.313,0.361,8.514
+Quebec,QC,"Ground beef, per kilogram",1,2023-10-01,gbm,0.631,0.846,5.036
+Quebec,QC,"Milk, 4 litres",1,2023-10-01,gbm,0.106,0.15,1.35
+Quebec,QC,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.286,0.35,4.457
+Quebec,QC,"White bread, 675 grams",1,2023-10-01,gbm,0.485,0.527,12.813
+Saskatchewan,SK,"Bananas, per kilogram",1,2023-10-01,gbm,0.007,0.008,0.374
+Saskatchewan,SK,"Butter, 454 grams",1,2023-10-01,gbm,0.458,0.543,7.655
+Saskatchewan,SK,"Chicken breasts, per kilogram",1,2023-10-01,gbm,0.581,0.86,3.716
+Saskatchewan,SK,"Eggs, 1 dozen",1,2023-10-01,gbm,0.107,0.19,2.464
+Saskatchewan,SK,"Ground beef, per kilogram",1,2023-10-01,gbm,1.055,1.269,8.545
+Saskatchewan,SK,"Milk, 4 litres",1,2023-10-01,gbm,0.118,0.159,2.056
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",1,2023-10-01,gbm,0.221,0.266,3.795
+Saskatchewan,SK,"White bread, 675 grams",1,2023-10-01,gbm,0.174,0.19,5.116
+Alberta,AB,"Bananas, per kilogram",2,2024-10-01,gbm,0.008,0.01,0.444
+Alberta,AB,"Butter, 454 grams",2,2024-10-01,gbm,0.39,0.421,6.553
+Alberta,AB,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.639,0.699,3.942
+Alberta,AB,"Eggs, 1 dozen",2,2024-10-01,gbm,0.069,0.076,1.349
+Alberta,AB,"Ground beef, per kilogram",2,2024-10-01,gbm,1.072,1.163,6.95
+Alberta,AB,"Milk, 4 litres",2,2024-10-01,gbm,0.052,0.07,0.837
+Alberta,AB,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.852,1.133,9.974
+Alberta,AB,"White bread, 675 grams",2,2024-10-01,gbm,0.054,0.062,1.574
+British Columbia,BC,"Bananas, per kilogram",2,2024-10-01,gbm,0.008,0.009,0.463
+British Columbia,BC,"Butter, 454 grams",2,2024-10-01,gbm,0.374,0.41,6.327
+British Columbia,BC,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.514,0.623,3.111
+British Columbia,BC,"Eggs, 1 dozen",2,2024-10-01,gbm,0.071,0.083,1.269
+British Columbia,BC,"Ground beef, per kilogram",2,2024-10-01,gbm,1.074,1.16,6.935
+British Columbia,BC,"Milk, 4 litres",2,2024-10-01,gbm,0.054,0.076,0.897
+British Columbia,BC,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.785,1.047,8.838
+British Columbia,BC,"White bread, 675 grams",2,2024-10-01,gbm,0.09,0.109,2.396
+Canada,CA,"Bananas, per kilogram",2,2024-10-01,gbm,0.013,0.016,0.776
+Canada,CA,"Butter, 454 grams",2,2024-10-01,gbm,0.292,0.311,5.139
+Canada,CA,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.587,0.639,4.27
+Canada,CA,"Eggs, 1 dozen",2,2024-10-01,gbm,0.091,0.115,1.879
+Canada,CA,"Ground beef, per kilogram",2,2024-10-01,gbm,0.825,0.928,5.698
+Canada,CA,"Milk, 4 litres",2,2024-10-01,gbm,0.046,0.056,0.686
+Canada,CA,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.917,1.222,10.475
+Canada,CA,"White bread, 675 grams",2,2024-10-01,gbm,0.061,0.074,1.761
+Manitoba,MB,"Bananas, per kilogram",2,2024-10-01,gbm,0.011,0.014,0.608
+Manitoba,MB,"Butter, 454 grams",2,2024-10-01,gbm,0.422,0.453,7.247
+Manitoba,MB,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.642,0.733,4.089
+Manitoba,MB,"Eggs, 1 dozen",2,2024-10-01,gbm,0.095,0.121,2.018
+Manitoba,MB,"Ground beef, per kilogram",2,2024-10-01,gbm,1.16,1.238,7.816
+Manitoba,MB,"Milk, 4 litres",2,2024-10-01,gbm,0.034,0.053,0.573
+Manitoba,MB,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.936,1.226,11.344
+Manitoba,MB,"White bread, 675 grams",2,2024-10-01,gbm,0.065,0.071,1.974
+New Brunswick,NB,"Bananas, per kilogram",2,2024-10-01,gbm,0.059,0.062,2.89
+New Brunswick,NB,"Butter, 454 grams",2,2024-10-01,gbm,0.228,0.287,3.936
+New Brunswick,NB,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.597,0.767,3.999
+New Brunswick,NB,"Eggs, 1 dozen",2,2024-10-01,gbm,0.199,0.228,3.754
+New Brunswick,NB,"Ground beef, per kilogram",2,2024-10-01,gbm,0.912,1.041,6.44
+New Brunswick,NB,"Milk, 4 litres",2,2024-10-01,gbm,0.083,0.09,0.972
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.81,1.107,8.957
+New Brunswick,NB,"White bread, 675 grams",2,2024-10-01,gbm,0.054,0.064,1.441
+Newfoundland and Labrador,NL,"Bananas, per kilogram",2,2024-10-01,gbm,0.012,0.014,0.542
+Newfoundland and Labrador,NL,"Butter, 454 grams",2,2024-10-01,gbm,0.29,0.34,4.798
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.442,0.567,2.875
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",2,2024-10-01,gbm,0.1,0.121,1.852
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",2,2024-10-01,gbm,1.088,1.184,7.666
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.795,1.1,8.716
+Newfoundland and Labrador,NL,"White bread, 675 grams",2,2024-10-01,gbm,0.081,0.095,2.012
+Nova Scotia,NS,"Bananas, per kilogram",2,2024-10-01,gbm,0.07,0.073,3.414
+Nova Scotia,NS,"Butter, 454 grams",2,2024-10-01,gbm,0.227,0.272,3.946
+Nova Scotia,NS,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.668,0.822,4.356
+Nova Scotia,NS,"Eggs, 1 dozen",2,2024-10-01,gbm,0.087,0.093,1.612
+Nova Scotia,NS,"Ground beef, per kilogram",2,2024-10-01,gbm,0.792,0.923,5.556
+Nova Scotia,NS,"Milk, 4 litres",2,2024-10-01,gbm,0.107,0.12,1.473
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.781,1.075,8.266
+Nova Scotia,NS,"White bread, 675 grams",2,2024-10-01,gbm,0.139,0.153,3.866
+Ontario,ON,"Bananas, per kilogram",2,2024-10-01,gbm,0.042,0.048,2.769
+Ontario,ON,"Butter, 454 grams",2,2024-10-01,gbm,0.436,0.462,7.76
+Ontario,ON,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.594,0.709,4.423
+Ontario,ON,"Eggs, 1 dozen",2,2024-10-01,gbm,0.238,0.264,4.916
+Ontario,ON,"Ground beef, per kilogram",2,2024-10-01,gbm,0.569,0.698,4.008
+Ontario,ON,"Milk, 4 litres",2,2024-10-01,gbm,0.05,0.063,0.748
+Ontario,ON,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.967,1.249,11.287
+Ontario,ON,"White bread, 675 grams",2,2024-10-01,gbm,0.056,0.062,1.831
+Prince Edward Island,PE,"Bananas, per kilogram",2,2024-10-01,gbm,0.077,0.08,3.799
+Prince Edward Island,PE,"Butter, 454 grams",2,2024-10-01,gbm,0.178,0.225,3.143
+Prince Edward Island,PE,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.68,0.808,4.554
+Prince Edward Island,PE,"Eggs, 1 dozen",2,2024-10-01,gbm,0.103,0.125,1.934
+Prince Edward Island,PE,"Ground beef, per kilogram",2,2024-10-01,gbm,0.829,0.936,5.855
+Prince Edward Island,PE,"Milk, 4 litres",2,2024-10-01,gbm,0.098,0.125,1.069
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.867,1.219,9.321
+Prince Edward Island,PE,"White bread, 675 grams",2,2024-10-01,gbm,0.112,0.127,3.091
+Quebec,QC,"Bananas, per kilogram",2,2024-10-01,gbm,0.009,0.011,0.511
+Quebec,QC,"Butter, 454 grams",2,2024-10-01,gbm,0.213,0.259,3.879
+Quebec,QC,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.877,1.069,6.605
+Quebec,QC,"Eggs, 1 dozen",2,2024-10-01,gbm,0.338,0.381,7.42
+Quebec,QC,"Ground beef, per kilogram",2,2024-10-01,gbm,1.135,1.284,7.775
+Quebec,QC,"Milk, 4 litres",2,2024-10-01,gbm,0.086,0.096,1.035
+Quebec,QC,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,1.188,1.482,13.478
+Quebec,QC,"White bread, 675 grams",2,2024-10-01,gbm,0.091,0.105,2.377
+Saskatchewan,SK,"Bananas, per kilogram",2,2024-10-01,gbm,0.016,0.018,0.894
+Saskatchewan,SK,"Butter, 454 grams",2,2024-10-01,gbm,0.425,0.457,7.323
+Saskatchewan,SK,"Chicken breasts, per kilogram",2,2024-10-01,gbm,0.588,0.705,3.802
+Saskatchewan,SK,"Eggs, 1 dozen",2,2024-10-01,gbm,0.098,0.122,2.065
+Saskatchewan,SK,"Ground beef, per kilogram",2,2024-10-01,gbm,1.116,1.221,7.719
+Saskatchewan,SK,"Milk, 4 litres",2,2024-10-01,gbm,0.054,0.075,0.89
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",2,2024-10-01,gbm,0.897,1.184,11.149
+Saskatchewan,SK,"White bread, 675 grams",2,2024-10-01,gbm,0.058,0.069,1.747
+Alberta,AB,"Bananas, per kilogram",3,2025-10-01,gbm,0.18,0.219,8.791
+Alberta,AB,"Butter, 454 grams",3,2025-10-01,gbm,0.18,0.218,3.028
+Alberta,AB,"Chicken breasts, per kilogram",3,2025-10-01,gbm,1.01,1.12,5.831
+Alberta,AB,"Eggs, 1 dozen",3,2025-10-01,gbm,0.12,0.128,2.34
+Alberta,AB,"Ground beef, per kilogram",3,2025-10-01,gbm,0.892,0.984,5.107
+Alberta,AB,"Milk, 4 litres",3,2025-10-01,gbm,0.194,0.232,2.958
+Alberta,AB,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.239,0.266,2.582
+Alberta,AB,"White bread, 675 grams",3,2025-10-01,gbm,0.125,0.145,3.401
+British Columbia,BC,"Bananas, per kilogram",3,2025-10-01,gbm,0.137,0.163,7.507
+British Columbia,BC,"Butter, 454 grams",3,2025-10-01,gbm,0.168,0.206,2.826
+British Columbia,BC,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.888,1.044,4.886
+British Columbia,BC,"Eggs, 1 dozen",3,2025-10-01,gbm,0.103,0.114,1.845
+British Columbia,BC,"Ground beef, per kilogram",3,2025-10-01,gbm,0.833,0.905,4.711
+British Columbia,BC,"Milk, 4 litres",3,2025-10-01,gbm,0.02,0.023,0.316
+British Columbia,BC,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.306,0.345,3.201
+British Columbia,BC,"White bread, 675 grams",3,2025-10-01,gbm,0.092,0.114,2.3
+Canada,CA,"Bananas, per kilogram",3,2025-10-01,gbm,0.132,0.159,7.059
+Canada,CA,"Butter, 454 grams",3,2025-10-01,gbm,0.129,0.154,2.27
+Canada,CA,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.393,0.448,2.698
+Canada,CA,"Eggs, 1 dozen",3,2025-10-01,gbm,0.277,0.282,5.766
+Canada,CA,"Ground beef, per kilogram",3,2025-10-01,gbm,0.695,0.768,4.273
+Canada,CA,"Milk, 4 litres",3,2025-10-01,gbm,0.057,0.066,0.825
+Canada,CA,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.352,0.397,3.748
+Canada,CA,"White bread, 675 grams",3,2025-10-01,gbm,0.088,0.09,2.44
+Manitoba,MB,"Bananas, per kilogram",3,2025-10-01,gbm,0.175,0.213,8.616
+Manitoba,MB,"Butter, 454 grams",3,2025-10-01,gbm,0.175,0.204,3.017
+Manitoba,MB,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.914,1.044,5.469
+Manitoba,MB,"Eggs, 1 dozen",3,2025-10-01,gbm,0.157,0.166,3.34
+Manitoba,MB,"Ground beef, per kilogram",3,2025-10-01,gbm,0.84,0.941,4.991
+Manitoba,MB,"Milk, 4 litres",3,2025-10-01,gbm,0.023,0.029,0.371
+Manitoba,MB,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.274,0.3,3.062
+Manitoba,MB,"White bread, 675 grams",3,2025-10-01,gbm,0.226,0.257,6.23
+New Brunswick,NB,"Bananas, per kilogram",3,2025-10-01,gbm,0.087,0.095,4.048
+New Brunswick,NB,"Butter, 454 grams",3,2025-10-01,gbm,0.166,0.229,2.79
+New Brunswick,NB,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.885,1.101,5.81
+New Brunswick,NB,"Eggs, 1 dozen",3,2025-10-01,gbm,0.292,0.306,5.634
+New Brunswick,NB,"Ground beef, per kilogram",3,2025-10-01,gbm,0.691,0.799,4.29
+New Brunswick,NB,"Milk, 4 litres",3,2025-10-01,gbm,0.048,0.054,0.551
+New Brunswick,NB,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.288,0.319,2.984
+New Brunswick,NB,"White bread, 675 grams",3,2025-10-01,gbm,0.116,0.121,3.045
+Newfoundland and Labrador,NL,"Bananas, per kilogram",3,2025-10-01,gbm,0.381,0.455,13.947
+Newfoundland and Labrador,NL,"Butter, 454 grams",3,2025-10-01,gbm,0.207,0.253,3.425
+Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.484,0.577,3.104
+Newfoundland and Labrador,NL,"Eggs, 1 dozen",3,2025-10-01,gbm,0.247,0.256,4.581
+Newfoundland and Labrador,NL,"Ground beef, per kilogram",3,2025-10-01,gbm,0.464,0.598,2.874
+Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.346,0.381,3.531
+Newfoundland and Labrador,NL,"White bread, 675 grams",3,2025-10-01,gbm,0.11,0.114,2.651
+Nova Scotia,NS,"Bananas, per kilogram",3,2025-10-01,gbm,0.095,0.099,4.493
+Nova Scotia,NS,"Butter, 454 grams",3,2025-10-01,gbm,0.153,0.191,2.604
+Nova Scotia,NS,"Chicken breasts, per kilogram",3,2025-10-01,gbm,1.127,1.388,7.202
+Nova Scotia,NS,"Eggs, 1 dozen",3,2025-10-01,gbm,0.306,0.323,5.736
+Nova Scotia,NS,"Ground beef, per kilogram",3,2025-10-01,gbm,0.558,0.692,3.429
+Nova Scotia,NS,"Milk, 4 litres",3,2025-10-01,gbm,0.096,0.118,1.326
+Nova Scotia,NS,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.214,0.25,2.141
+Nova Scotia,NS,"White bread, 675 grams",3,2025-10-01,gbm,0.166,0.173,4.409
+Ontario,ON,"Bananas, per kilogram",3,2025-10-01,gbm,0.124,0.149,7.318
+Ontario,ON,"Butter, 454 grams",3,2025-10-01,gbm,0.183,0.213,3.26
+Ontario,ON,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.767,0.841,5.572
+Ontario,ON,"Eggs, 1 dozen",3,2025-10-01,gbm,0.031,0.038,0.631
+Ontario,ON,"Ground beef, per kilogram",3,2025-10-01,gbm,0.681,0.801,4.206
+Ontario,ON,"Milk, 4 litres",3,2025-10-01,gbm,0.048,0.061,0.703
+Ontario,ON,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.29,0.324,3.112
+Ontario,ON,"White bread, 675 grams",3,2025-10-01,gbm,0.144,0.149,4.462
+Prince Edward Island,PE,"Bananas, per kilogram",3,2025-10-01,gbm,0.092,0.098,4.348
+Prince Edward Island,PE,"Butter, 454 grams",3,2025-10-01,gbm,0.212,0.252,3.735
+Prince Edward Island,PE,"Chicken breasts, per kilogram",3,2025-10-01,gbm,1.01,1.191,6.542
+Prince Edward Island,PE,"Eggs, 1 dozen",3,2025-10-01,gbm,0.302,0.321,5.754
+Prince Edward Island,PE,"Ground beef, per kilogram",3,2025-10-01,gbm,0.438,0.545,2.756
+Prince Edward Island,PE,"Milk, 4 litres",3,2025-10-01,gbm,0.099,0.117,1.065
+Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.245,0.3,2.54
+Prince Edward Island,PE,"White bread, 675 grams",3,2025-10-01,gbm,0.133,0.135,3.53
+Quebec,QC,"Bananas, per kilogram",3,2025-10-01,gbm,0.113,0.138,5.792
+Quebec,QC,"Butter, 454 grams",3,2025-10-01,gbm,0.119,0.15,2.13
+Quebec,QC,"Chicken breasts, per kilogram",3,2025-10-01,gbm,0.576,0.628,4.097
+Quebec,QC,"Eggs, 1 dozen",3,2025-10-01,gbm,0.565,0.571,13.656
+Quebec,QC,"Ground beef, per kilogram",3,2025-10-01,gbm,0.636,0.855,3.892
+Quebec,QC,"Milk, 4 litres",3,2025-10-01,gbm,0.048,0.055,0.563
+Quebec,QC,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.446,0.537,4.706
+Quebec,QC,"White bread, 675 grams",3,2025-10-01,gbm,0.064,0.076,1.603
+Saskatchewan,SK,"Bananas, per kilogram",3,2025-10-01,gbm,0.171,0.205,8.507
+Saskatchewan,SK,"Butter, 454 grams",3,2025-10-01,gbm,0.166,0.197,2.864
+Saskatchewan,SK,"Chicken breasts, per kilogram",3,2025-10-01,gbm,1.004,1.138,6.107
+Saskatchewan,SK,"Eggs, 1 dozen",3,2025-10-01,gbm,0.133,0.141,2.831
+Saskatchewan,SK,"Ground beef, per kilogram",3,2025-10-01,gbm,0.761,0.881,4.574
+Saskatchewan,SK,"Milk, 4 litres",3,2025-10-01,gbm,0.18,0.214,2.798
+Saskatchewan,SK,"Roasted or ground coffee, 340 grams",3,2025-10-01,gbm,0.265,0.293,3.033
+Saskatchewan,SK,"White bread, 675 grams",3,2025-10-01,gbm,0.169,0.191,4.609
