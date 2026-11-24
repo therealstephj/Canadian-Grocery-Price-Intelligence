@@ -1,0 +1,1045 @@
+date,province,province_code,product,model,forecast,lower_80,upper_80
+2026-10-01,Alberta,AB,"Bananas, per kilogram",gbm,2.07,1.98,2.11
+2026-11-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.98,2.12
+2026-12-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.14
+2027-01-01,Alberta,AB,"Bananas, per kilogram",gbm,2.09,2.0,2.13
+2027-02-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,2.0,2.18
+2027-03-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.2
+2027-04-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.21
+2027-05-01,Alberta,AB,"Bananas, per kilogram",gbm,2.09,2.0,2.22
+2027-06-01,Alberta,AB,"Bananas, per kilogram",gbm,2.09,2.0,2.22
+2027-07-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.22
+2027-08-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.22
+2027-09-01,Alberta,AB,"Bananas, per kilogram",gbm,2.08,1.99,2.23
+2026-10-01,Alberta,AB,"Butter, 454 grams",gbm,5.79,5.58,6.23
+2026-11-01,Alberta,AB,"Butter, 454 grams",gbm,5.74,5.54,6.22
+2026-12-01,Alberta,AB,"Butter, 454 grams",gbm,5.75,5.56,6.29
+2027-01-01,Alberta,AB,"Butter, 454 grams",gbm,6.05,5.78,6.47
+2027-02-01,Alberta,AB,"Butter, 454 grams",gbm,5.95,5.71,6.51
+2027-03-01,Alberta,AB,"Butter, 454 grams",gbm,5.8,5.46,6.5
+2027-04-01,Alberta,AB,"Butter, 454 grams",gbm,6.08,5.65,6.76
+2027-05-01,Alberta,AB,"Butter, 454 grams",gbm,5.92,5.57,6.68
+2027-06-01,Alberta,AB,"Butter, 454 grams",gbm,6.05,5.68,6.69
+2027-07-01,Alberta,AB,"Butter, 454 grams",gbm,6.03,5.66,6.69
+2027-08-01,Alberta,AB,"Butter, 454 grams",gbm,5.89,5.56,6.7
+2027-09-01,Alberta,AB,"Butter, 454 grams",gbm,5.85,5.55,6.68
+2026-10-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.64,15.63,17.54
+2026-11-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.7,15.65,17.66
+2026-12-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.73,15.63,17.8
+2027-01-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.57,15.58,17.87
+2027-02-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.6,15.62,17.98
+2027-03-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.64,15.33,18.1
+2027-04-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.67,15.45,18.24
+2027-05-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.67,15.36,18.14
+2027-06-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.41,15.3,18.24
+2027-07-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.69,15.33,18.41
+2027-08-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.37,15.14,18.33
+2027-09-01,Alberta,AB,"Chicken breasts, per kilogram",gbm,16.74,15.42,18.5
+2026-10-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.19,5.09,5.36
+2026-11-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.19,5.07,5.27
+2026-12-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.19,5.08,5.29
+2027-01-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.19,5.1,5.27
+2027-02-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.19,5.1,5.36
+2027-03-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.18,5.08,5.4
+2027-04-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.2,5.1,5.46
+2027-05-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.29,5.16,5.58
+2027-06-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.22,5.14,5.46
+2027-07-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.31,5.15,5.61
+2027-08-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.32,5.15,5.63
+2027-09-01,Alberta,AB,"Eggs, 1 dozen",gbm,5.33,5.15,5.62
+2026-10-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.69,17.2,19.17
+2026-11-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.74,17.2,19.47
+2026-12-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.86,17.17,19.73
+2027-01-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.66,17.2,19.53
+2027-02-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.74,17.2,19.83
+2027-03-01,Alberta,AB,"Ground beef, per kilogram",gbm,18.9,17.19,20.02
+2027-04-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.19,17.29,20.68
+2027-05-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.43,17.38,21.29
+2027-06-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.6,17.64,21.42
+2027-07-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.6,17.57,21.29
+2027-08-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.63,17.64,21.38
+2027-09-01,Alberta,AB,"Ground beef, per kilogram",gbm,19.65,17.55,21.34
+2026-10-01,Alberta,AB,"Milk, 4 litres",gbm,6.6,6.52,6.73
+2026-11-01,Alberta,AB,"Milk, 4 litres",gbm,6.6,6.52,6.78
+2026-12-01,Alberta,AB,"Milk, 4 litres",gbm,6.6,6.52,6.82
+2027-01-01,Alberta,AB,"Milk, 4 litres",gbm,6.62,6.54,6.76
+2027-02-01,Alberta,AB,"Milk, 4 litres",gbm,6.66,6.55,6.9
+2027-03-01,Alberta,AB,"Milk, 4 litres",gbm,6.75,6.58,7.17
+2027-04-01,Alberta,AB,"Milk, 4 litres",gbm,6.78,6.6,7.19
+2027-05-01,Alberta,AB,"Milk, 4 litres",gbm,6.79,6.62,7.22
+2027-06-01,Alberta,AB,"Milk, 4 litres",gbm,6.8,6.63,7.21
+2027-07-01,Alberta,AB,"Milk, 4 litres",gbm,6.79,6.61,7.2
+2027-08-01,Alberta,AB,"Milk, 4 litres",gbm,6.79,6.62,7.21
+2027-09-01,Alberta,AB,"Milk, 4 litres",gbm,6.79,6.6,7.24
+2026-10-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.3,9.0,9.57
+2026-11-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.35,9.03,9.69
+2026-12-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.35,9.08,9.81
+2027-01-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.36,9.0,9.86
+2027-02-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.45,9.02,10.0
+2027-03-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.4,8.89,10.06
+2027-04-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.45,8.93,10.23
+2027-05-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.6,9.16,10.43
+2027-06-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.5,9.13,10.49
+2027-07-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.63,9.19,10.64
+2027-08-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.59,9.16,10.67
+2027-09-01,Alberta,AB,"Roasted or ground coffee, 340 grams",gbm,9.64,9.16,10.71
+2026-10-01,Alberta,AB,"White bread, 675 grams",gbm,3.67,3.52,3.85
+2026-11-01,Alberta,AB,"White bread, 675 grams",gbm,3.7,3.53,3.89
+2026-12-01,Alberta,AB,"White bread, 675 grams",gbm,3.7,3.53,3.96
+2027-01-01,Alberta,AB,"White bread, 675 grams",gbm,3.72,3.56,3.95
+2027-02-01,Alberta,AB,"White bread, 675 grams",gbm,3.73,3.55,3.99
+2027-03-01,Alberta,AB,"White bread, 675 grams",gbm,3.74,3.54,4.03
+2027-04-01,Alberta,AB,"White bread, 675 grams",gbm,3.73,3.52,4.13
+2027-05-01,Alberta,AB,"White bread, 675 grams",gbm,3.75,3.52,4.18
+2027-06-01,Alberta,AB,"White bread, 675 grams",gbm,3.76,3.54,4.18
+2027-07-01,Alberta,AB,"White bread, 675 grams",gbm,3.75,3.53,4.25
+2027-08-01,Alberta,AB,"White bread, 675 grams",gbm,3.75,3.53,4.26
+2027-09-01,Alberta,AB,"White bread, 675 grams",gbm,3.78,3.54,4.24
+2026-10-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.83,1.78,1.85
+2026-11-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.78,1.86
+2026-12-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.88
+2027-01-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.85,1.79,1.89
+2027-02-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.92
+2027-03-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.95
+2027-04-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.96
+2027-05-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.85,1.79,1.97
+2027-06-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.85,1.79,1.97
+2027-07-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.98
+2027-08-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.79,1.98
+2027-09-01,British Columbia,BC,"Bananas, per kilogram",gbm,1.84,1.78,1.99
+2026-10-01,British Columbia,BC,"Butter, 454 grams",gbm,5.82,5.61,6.23
+2026-11-01,British Columbia,BC,"Butter, 454 grams",gbm,5.76,5.56,6.23
+2026-12-01,British Columbia,BC,"Butter, 454 grams",gbm,5.77,5.58,6.3
+2027-01-01,British Columbia,BC,"Butter, 454 grams",gbm,6.09,5.8,6.47
+2027-02-01,British Columbia,BC,"Butter, 454 grams",gbm,5.96,5.73,6.52
+2027-03-01,British Columbia,BC,"Butter, 454 grams",gbm,5.83,5.47,6.51
+2027-04-01,British Columbia,BC,"Butter, 454 grams",gbm,6.12,5.65,6.78
+2027-05-01,British Columbia,BC,"Butter, 454 grams",gbm,5.94,5.59,6.7
+2027-06-01,British Columbia,BC,"Butter, 454 grams",gbm,6.08,5.7,6.71
+2027-07-01,British Columbia,BC,"Butter, 454 grams",gbm,6.07,5.68,6.71
+2027-08-01,British Columbia,BC,"Butter, 454 grams",gbm,5.91,5.58,6.72
+2027-09-01,British Columbia,BC,"Butter, 454 grams",gbm,5.87,5.57,6.68
+2026-10-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.85,16.92,18.88
+2026-11-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.7,16.71,18.78
+2026-12-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.8,16.71,18.88
+2027-01-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.74,16.79,19.03
+2027-02-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.8,16.77,18.96
+2027-03-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.97,16.61,19.11
+2027-04-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.95,16.71,19.33
+2027-05-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.96,16.61,19.32
+2027-06-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.64,16.58,19.35
+2027-07-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.65,16.57,19.51
+2027-08-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,17.61,16.36,19.57
+2027-09-01,British Columbia,BC,"Chicken breasts, per kilogram",gbm,18.04,16.75,19.66
+2026-10-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.7,5.57,5.75
+2026-11-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.7,5.55,5.79
+2026-12-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.71,5.54,5.81
+2027-01-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.7,5.58,5.78
+2027-02-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.7,5.59,5.87
+2027-03-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.69,5.52,5.93
+2027-04-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.71,5.58,5.95
+2027-05-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.83,5.67,6.15
+2027-06-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.73,5.64,6.01
+2027-07-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.83,5.66,6.17
+2027-08-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.85,5.66,6.19
+2027-09-01,British Columbia,BC,"Eggs, 1 dozen",gbm,5.85,5.66,6.18
+2026-10-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.09,17.55,19.48
+2026-11-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.28,17.57,19.66
+2026-12-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.23,17.61,20.0
+2027-01-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.02,17.59,19.91
+2027-02-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.1,17.58,20.09
+2027-03-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.26,17.55,20.32
+2027-04-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.62,17.61,21.06
+2027-05-01,British Columbia,BC,"Ground beef, per kilogram",gbm,19.85,17.75,21.42
+2027-06-01,British Columbia,BC,"Ground beef, per kilogram",gbm,20.01,17.93,21.69
+2027-07-01,British Columbia,BC,"Ground beef, per kilogram",gbm,20.05,17.86,21.53
+2027-08-01,British Columbia,BC,"Ground beef, per kilogram",gbm,20.08,18.03,21.73
+2027-09-01,British Columbia,BC,"Ground beef, per kilogram",gbm,20.08,17.89,21.71
+2026-10-01,British Columbia,BC,"Milk, 4 litres",gbm,6.23,6.17,6.26
+2026-11-01,British Columbia,BC,"Milk, 4 litres",gbm,6.24,6.17,6.29
+2026-12-01,British Columbia,BC,"Milk, 4 litres",gbm,6.23,6.17,6.3
+2027-01-01,British Columbia,BC,"Milk, 4 litres",gbm,6.25,6.18,6.26
+2027-02-01,British Columbia,BC,"Milk, 4 litres",gbm,6.38,6.22,6.55
+2027-03-01,British Columbia,BC,"Milk, 4 litres",gbm,6.42,6.22,6.59
+2027-04-01,British Columbia,BC,"Milk, 4 litres",gbm,6.43,6.23,6.62
+2027-05-01,British Columbia,BC,"Milk, 4 litres",gbm,6.45,6.26,6.69
+2027-06-01,British Columbia,BC,"Milk, 4 litres",gbm,6.44,6.27,6.64
+2027-07-01,British Columbia,BC,"Milk, 4 litres",gbm,6.43,6.25,6.63
+2027-08-01,British Columbia,BC,"Milk, 4 litres",gbm,6.43,6.25,6.65
+2027-09-01,British Columbia,BC,"Milk, 4 litres",gbm,6.42,6.24,6.67
+2026-10-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.65,9.35,9.97
+2026-11-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.7,9.43,10.11
+2026-12-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.68,9.44,10.24
+2027-01-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.72,9.38,10.21
+2027-02-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.83,9.42,10.44
+2027-03-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.77,9.25,10.57
+2027-04-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.83,9.25,10.77
+2027-05-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.92,9.56,11.03
+2027-06-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.88,9.49,11.13
+2027-07-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,10.01,9.6,11.31
+2027-08-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,9.94,9.57,11.33
+2027-09-01,British Columbia,BC,"Roasted or ground coffee, 340 grams",gbm,10.01,9.57,11.37
+2026-10-01,British Columbia,BC,"White bread, 675 grams",gbm,3.95,3.86,4.14
+2026-11-01,British Columbia,BC,"White bread, 675 grams",gbm,3.97,3.86,4.16
+2026-12-01,British Columbia,BC,"White bread, 675 grams",gbm,3.99,3.87,4.2
+2027-01-01,British Columbia,BC,"White bread, 675 grams",gbm,4.01,3.9,4.27
+2027-02-01,British Columbia,BC,"White bread, 675 grams",gbm,4.0,3.88,4.28
+2027-03-01,British Columbia,BC,"White bread, 675 grams",gbm,4.04,3.89,4.31
+2027-04-01,British Columbia,BC,"White bread, 675 grams",gbm,3.97,3.84,4.38
+2027-05-01,British Columbia,BC,"White bread, 675 grams",gbm,3.97,3.84,4.41
+2027-06-01,British Columbia,BC,"White bread, 675 grams",gbm,4.07,3.91,4.41
+2027-07-01,British Columbia,BC,"White bread, 675 grams",gbm,4.01,3.88,4.42
+2027-08-01,British Columbia,BC,"White bread, 675 grams",gbm,4.02,3.89,4.43
+2027-09-01,British Columbia,BC,"White bread, 675 grams",gbm,4.01,3.87,4.43
+2026-10-01,Canada,CA,"Bananas, per kilogram",gbm,1.88,1.84,1.89
+2026-11-01,Canada,CA,"Bananas, per kilogram",gbm,1.88,1.84,1.9
+2026-12-01,Canada,CA,"Bananas, per kilogram",gbm,1.88,1.85,1.92
+2027-01-01,Canada,CA,"Bananas, per kilogram",gbm,1.89,1.85,1.93
+2027-02-01,Canada,CA,"Bananas, per kilogram",gbm,1.89,1.85,1.96
+2027-03-01,Canada,CA,"Bananas, per kilogram",gbm,1.89,1.85,1.98
+2027-04-01,Canada,CA,"Bananas, per kilogram",gbm,1.9,1.85,1.99
+2027-05-01,Canada,CA,"Bananas, per kilogram",gbm,1.9,1.85,2.01
+2027-06-01,Canada,CA,"Bananas, per kilogram",gbm,1.9,1.85,2.01
+2027-07-01,Canada,CA,"Bananas, per kilogram",gbm,1.9,1.84,2.01
+2027-08-01,Canada,CA,"Bananas, per kilogram",gbm,1.89,1.84,2.02
+2027-09-01,Canada,CA,"Bananas, per kilogram",gbm,1.89,1.84,2.02
+2026-10-01,Canada,CA,"Butter, 454 grams",gbm,5.62,5.45,5.93
+2026-11-01,Canada,CA,"Butter, 454 grams",gbm,5.57,5.4,5.93
+2026-12-01,Canada,CA,"Butter, 454 grams",gbm,5.59,5.42,6.01
+2027-01-01,Canada,CA,"Butter, 454 grams",gbm,5.75,5.56,6.13
+2027-02-01,Canada,CA,"Butter, 454 grams",gbm,5.75,5.56,6.23
+2027-03-01,Canada,CA,"Butter, 454 grams",gbm,5.6,5.33,6.23
+2027-04-01,Canada,CA,"Butter, 454 grams",gbm,5.84,5.5,6.42
+2027-05-01,Canada,CA,"Butter, 454 grams",gbm,5.71,5.43,6.4
+2027-06-01,Canada,CA,"Butter, 454 grams",gbm,5.87,5.53,6.41
+2027-07-01,Canada,CA,"Butter, 454 grams",gbm,5.85,5.53,6.42
+2027-08-01,Canada,CA,"Butter, 454 grams",gbm,5.71,5.42,6.43
+2027-09-01,Canada,CA,"Butter, 454 grams",gbm,5.67,5.41,6.36
+2026-10-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.53,13.88,15.27
+2026-11-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.78,14.23,15.59
+2026-12-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.69,13.9,15.59
+2027-01-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.57,13.85,15.55
+2027-02-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.7,13.89,15.71
+2027-03-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.82,14.07,15.83
+2027-04-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.62,13.93,15.97
+2027-05-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.81,14.02,16.02
+2027-06-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.82,14.03,16.09
+2027-07-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.83,14.04,16.23
+2027-08-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.7,14.0,16.25
+2027-09-01,Canada,CA,"Chicken breasts, per kilogram",gbm,14.86,14.1,16.27
+2026-10-01,Canada,CA,"Eggs, 1 dozen",gbm,4.85,4.76,4.9
+2026-11-01,Canada,CA,"Eggs, 1 dozen",gbm,4.85,4.75,4.93
+2026-12-01,Canada,CA,"Eggs, 1 dozen",gbm,4.87,4.75,4.95
+2027-01-01,Canada,CA,"Eggs, 1 dozen",gbm,4.88,4.76,4.92
+2027-02-01,Canada,CA,"Eggs, 1 dozen",gbm,4.92,4.79,5.04
+2027-03-01,Canada,CA,"Eggs, 1 dozen",gbm,4.87,4.74,5.06
+2027-04-01,Canada,CA,"Eggs, 1 dozen",gbm,4.95,4.79,5.1
+2027-05-01,Canada,CA,"Eggs, 1 dozen",gbm,4.99,4.85,5.13
+2027-06-01,Canada,CA,"Eggs, 1 dozen",gbm,4.99,4.86,5.14
+2027-07-01,Canada,CA,"Eggs, 1 dozen",gbm,5.01,4.86,5.16
+2027-08-01,Canada,CA,"Eggs, 1 dozen",gbm,5.02,4.85,5.17
+2027-09-01,Canada,CA,"Eggs, 1 dozen",gbm,5.02,4.85,5.16
+2026-10-01,Canada,CA,"Ground beef, per kilogram",gbm,17.33,16.31,17.86
+2026-11-01,Canada,CA,"Ground beef, per kilogram",gbm,17.38,16.32,18.08
+2026-12-01,Canada,CA,"Ground beef, per kilogram",gbm,17.5,16.37,18.45
+2027-01-01,Canada,CA,"Ground beef, per kilogram",gbm,17.24,16.34,18.29
+2027-02-01,Canada,CA,"Ground beef, per kilogram",gbm,17.58,16.3,18.55
+2027-03-01,Canada,CA,"Ground beef, per kilogram",gbm,17.58,16.34,18.69
+2027-04-01,Canada,CA,"Ground beef, per kilogram",gbm,17.75,16.35,19.22
+2027-05-01,Canada,CA,"Ground beef, per kilogram",gbm,18.0,16.46,19.68
+2027-06-01,Canada,CA,"Ground beef, per kilogram",gbm,18.25,16.56,20.0
+2027-07-01,Canada,CA,"Ground beef, per kilogram",gbm,18.28,16.53,20.06
+2027-08-01,Canada,CA,"Ground beef, per kilogram",gbm,18.32,16.53,20.11
+2027-09-01,Canada,CA,"Ground beef, per kilogram",gbm,18.35,16.56,20.1
+2026-10-01,Canada,CA,"Milk, 4 litres",gbm,6.99,6.95,7.02
+2026-11-01,Canada,CA,"Milk, 4 litres",gbm,7.0,6.95,7.05
+2026-12-01,Canada,CA,"Milk, 4 litres",gbm,6.99,6.94,7.07
+2027-01-01,Canada,CA,"Milk, 4 litres",gbm,7.01,6.96,7.05
+2027-02-01,Canada,CA,"Milk, 4 litres",gbm,7.16,6.99,7.46
+2027-03-01,Canada,CA,"Milk, 4 litres",gbm,7.2,6.99,7.52
+2027-04-01,Canada,CA,"Milk, 4 litres",gbm,7.23,7.01,7.55
+2027-05-01,Canada,CA,"Milk, 4 litres",gbm,7.24,7.05,7.58
+2027-06-01,Canada,CA,"Milk, 4 litres",gbm,7.23,7.05,7.58
+2027-07-01,Canada,CA,"Milk, 4 litres",gbm,7.22,7.04,7.57
+2027-08-01,Canada,CA,"Milk, 4 litres",gbm,7.22,7.04,7.6
+2027-09-01,Canada,CA,"Milk, 4 litres",gbm,7.21,7.03,7.62
+2026-10-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.39,9.15,9.68
+2026-11-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.39,9.15,9.73
+2026-12-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.42,9.22,9.79
+2027-01-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.49,9.16,9.81
+2027-02-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.55,9.18,9.94
+2027-03-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.54,9.07,10.03
+2027-04-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.56,9.12,10.12
+2027-05-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.61,9.35,10.25
+2027-06-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.64,9.35,10.33
+2027-07-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.67,9.38,10.42
+2027-08-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.69,9.37,10.42
+2027-09-01,Canada,CA,"Roasted or ground coffee, 340 grams",gbm,9.66,9.33,10.41
+2026-10-01,Canada,CA,"White bread, 675 grams",gbm,3.59,3.55,3.65
+2026-11-01,Canada,CA,"White bread, 675 grams",gbm,3.59,3.54,3.7
+2026-12-01,Canada,CA,"White bread, 675 grams",gbm,3.59,3.55,3.73
+2027-01-01,Canada,CA,"White bread, 675 grams",gbm,3.64,3.54,3.75
+2027-02-01,Canada,CA,"White bread, 675 grams",gbm,3.66,3.54,3.78
+2027-03-01,Canada,CA,"White bread, 675 grams",gbm,3.66,3.54,3.82
+2027-04-01,Canada,CA,"White bread, 675 grams",gbm,3.67,3.54,3.84
+2027-05-01,Canada,CA,"White bread, 675 grams",gbm,3.67,3.54,3.87
+2027-06-01,Canada,CA,"White bread, 675 grams",gbm,3.67,3.54,3.88
+2027-07-01,Canada,CA,"White bread, 675 grams",gbm,3.68,3.54,3.91
+2027-08-01,Canada,CA,"White bread, 675 grams",gbm,3.68,3.54,3.93
+2027-09-01,Canada,CA,"White bread, 675 grams",gbm,3.67,3.54,3.93
+2026-10-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.05,1.98,2.08
+2026-11-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.05,1.98,2.09
+2026-12-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.05,1.99,2.1
+2027-01-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,2.0,2.1
+2027-02-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.07,2.0,2.15
+2027-03-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,2.0,2.16
+2027-04-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,2.0,2.19
+2027-05-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.07,2.0,2.21
+2027-06-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.07,2.0,2.21
+2027-07-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,1.99,2.21
+2027-08-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,1.99,2.22
+2027-09-01,Manitoba,MB,"Bananas, per kilogram",gbm,2.06,1.99,2.23
+2026-10-01,Manitoba,MB,"Butter, 454 grams",gbm,5.72,5.48,6.13
+2026-11-01,Manitoba,MB,"Butter, 454 grams",gbm,5.66,5.43,6.11
+2026-12-01,Manitoba,MB,"Butter, 454 grams",gbm,5.67,5.45,6.18
+2027-01-01,Manitoba,MB,"Butter, 454 grams",gbm,5.97,5.68,6.38
+2027-02-01,Manitoba,MB,"Butter, 454 grams",gbm,5.86,5.6,6.41
+2027-03-01,Manitoba,MB,"Butter, 454 grams",gbm,5.72,5.37,6.38
+2027-04-01,Manitoba,MB,"Butter, 454 grams",gbm,5.96,5.55,6.61
+2027-05-01,Manitoba,MB,"Butter, 454 grams",gbm,5.84,5.46,6.56
+2027-06-01,Manitoba,MB,"Butter, 454 grams",gbm,5.97,5.57,6.59
+2027-07-01,Manitoba,MB,"Butter, 454 grams",gbm,5.96,5.55,6.6
+2027-08-01,Manitoba,MB,"Butter, 454 grams",gbm,5.82,5.45,6.58
+2027-09-01,Manitoba,MB,"Butter, 454 grams",gbm,5.77,5.44,6.56
+2026-10-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.41,15.47,17.5
+2026-11-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.49,15.51,17.65
+2026-12-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.52,15.49,17.77
+2027-01-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.39,15.43,17.74
+2027-02-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.45,15.4,17.83
+2027-03-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.52,15.19,18.03
+2027-04-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.53,15.31,18.06
+2027-05-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.53,15.13,17.94
+2027-06-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.5,15.15,18.18
+2027-07-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.23,15.11,18.18
+2027-08-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.19,14.87,18.4
+2027-09-01,Manitoba,MB,"Chicken breasts, per kilogram",gbm,16.62,15.24,18.58
+2026-10-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.8,4.66,4.92
+2026-11-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.8,4.63,4.85
+2026-12-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.8,4.64,4.87
+2027-01-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.79,4.66,4.84
+2027-02-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.79,4.66,4.92
+2027-03-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.78,4.62,4.97
+2027-04-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.8,4.65,5.01
+2027-05-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.88,4.72,5.12
+2027-06-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.82,4.69,5.02
+2027-07-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.81,4.67,5.04
+2027-08-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.91,4.73,5.17
+2027-09-01,Manitoba,MB,"Eggs, 1 dozen",gbm,4.91,4.72,5.16
+2026-10-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.05,16.68,18.6
+2026-11-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.06,16.68,18.83
+2026-12-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.07,16.67,19.08
+2027-01-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.14,16.7,18.97
+2027-02-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.21,16.7,19.26
+2027-03-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.39,16.7,19.45
+2027-04-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.77,16.75,20.09
+2027-05-01,Manitoba,MB,"Ground beef, per kilogram",gbm,18.96,16.85,20.46
+2027-06-01,Manitoba,MB,"Ground beef, per kilogram",gbm,19.14,17.12,20.79
+2027-07-01,Manitoba,MB,"Ground beef, per kilogram",gbm,19.18,17.0,20.53
+2027-08-01,Manitoba,MB,"Ground beef, per kilogram",gbm,19.21,17.07,20.56
+2027-09-01,Manitoba,MB,"Ground beef, per kilogram",gbm,19.23,17.04,20.5
+2026-10-01,Manitoba,MB,"Milk, 4 litres",gbm,6.21,6.16,6.25
+2026-11-01,Manitoba,MB,"Milk, 4 litres",gbm,6.21,6.16,6.28
+2026-12-01,Manitoba,MB,"Milk, 4 litres",gbm,6.21,6.16,6.3
+2027-01-01,Manitoba,MB,"Milk, 4 litres",gbm,6.24,6.17,6.28
+2027-02-01,Manitoba,MB,"Milk, 4 litres",gbm,6.37,6.2,6.58
+2027-03-01,Manitoba,MB,"Milk, 4 litres",gbm,6.4,6.2,6.63
+2027-04-01,Manitoba,MB,"Milk, 4 litres",gbm,6.42,6.21,6.65
+2027-05-01,Manitoba,MB,"Milk, 4 litres",gbm,6.43,6.24,6.67
+2027-06-01,Manitoba,MB,"Milk, 4 litres",gbm,6.42,6.24,6.67
+2027-07-01,Manitoba,MB,"Milk, 4 litres",gbm,6.41,6.22,6.66
+2027-08-01,Manitoba,MB,"Milk, 4 litres",gbm,6.41,6.23,6.68
+2027-09-01,Manitoba,MB,"Milk, 4 litres",gbm,6.4,6.22,6.7
+2026-10-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.0,8.67,9.39
+2026-11-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.05,8.71,9.51
+2026-12-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.05,8.75,9.63
+2027-01-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.06,8.66,9.65
+2027-02-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.16,8.72,9.97
+2027-03-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.1,8.54,9.96
+2027-04-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.16,8.58,10.14
+2027-05-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.24,8.81,10.36
+2027-06-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.21,8.77,10.41
+2027-07-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.32,8.85,10.64
+2027-08-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.27,8.79,10.67
+2027-09-01,Manitoba,MB,"Roasted or ground coffee, 340 grams",gbm,9.35,8.83,10.75
+2026-10-01,Manitoba,MB,"White bread, 675 grams",gbm,3.65,3.47,3.89
+2026-11-01,Manitoba,MB,"White bread, 675 grams",gbm,3.66,3.48,3.93
+2026-12-01,Manitoba,MB,"White bread, 675 grams",gbm,3.69,3.49,4.0
+2027-01-01,Manitoba,MB,"White bread, 675 grams",gbm,3.69,3.49,4.02
+2027-02-01,Manitoba,MB,"White bread, 675 grams",gbm,3.69,3.49,4.02
+2027-03-01,Manitoba,MB,"White bread, 675 grams",gbm,3.71,3.47,4.06
+2027-04-01,Manitoba,MB,"White bread, 675 grams",gbm,3.7,3.49,4.14
+2027-05-01,Manitoba,MB,"White bread, 675 grams",gbm,3.71,3.48,4.19
+2027-06-01,Manitoba,MB,"White bread, 675 grams",gbm,3.73,3.48,4.19
+2027-07-01,Manitoba,MB,"White bread, 675 grams",gbm,3.71,3.48,4.23
+2027-08-01,Manitoba,MB,"White bread, 675 grams",gbm,3.7,3.48,4.24
+2027-09-01,Manitoba,MB,"White bread, 675 grams",gbm,3.74,3.47,4.22
+2026-10-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.18,2.14,2.21
+2026-11-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.18,2.14,2.22
+2026-12-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.18,2.14,2.25
+2027-01-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.15,2.25
+2027-02-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.15,2.28
+2027-03-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.14,2.31
+2027-04-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.14,2.32
+2027-05-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.15,2.32
+2027-06-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.14,2.33
+2027-07-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.14,2.35
+2027-08-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.18,2.14,2.36
+2027-09-01,New Brunswick,NB,"Bananas, per kilogram",gbm,2.19,2.14,2.35
+2026-10-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.71,5.56,6.09
+2026-11-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.61,5.5,6.01
+2026-12-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.79,5.64,6.24
+2027-01-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.98,5.72,6.37
+2027-02-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.86,5.66,6.4
+2027-03-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.77,5.47,6.44
+2027-04-01,New Brunswick,NB,"Butter, 454 grams",gbm,6.02,5.66,6.69
+2027-05-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.85,5.59,6.54
+2027-06-01,New Brunswick,NB,"Butter, 454 grams",gbm,6.03,5.66,6.63
+2027-07-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.97,5.66,6.59
+2027-08-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.82,5.55,6.58
+2027-09-01,New Brunswick,NB,"Butter, 454 grams",gbm,5.77,5.53,6.51
+2026-10-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.06,14.27,15.97
+2026-11-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.17,14.3,16.17
+2026-12-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.17,14.1,16.36
+2027-01-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.03,14.21,16.28
+2027-02-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.1,14.19,16.27
+2027-03-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.17,13.89,16.76
+2027-04-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.19,14.06,16.54
+2027-05-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.14,14.06,16.54
+2027-06-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,14.92,14.02,16.64
+2027-07-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,14.9,13.9,16.77
+2027-08-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,14.92,13.9,16.94
+2027-09-01,New Brunswick,NB,"Chicken breasts, per kilogram",gbm,15.25,14.13,17.12
+2026-10-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.21,5.1,5.32
+2026-11-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.22,5.09,5.34
+2026-12-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.22,5.06,5.35
+2027-01-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.24,5.12,5.35
+2027-02-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.25,5.13,5.41
+2027-03-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.26,5.09,5.47
+2027-04-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.29,5.12,5.49
+2027-05-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.32,5.17,5.52
+2027-06-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.34,5.18,5.53
+2027-07-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.34,5.17,5.54
+2027-08-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.35,5.15,5.54
+2027-09-01,New Brunswick,NB,"Eggs, 1 dozen",gbm,5.35,5.15,5.55
+2026-10-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.58,15.5,17.34
+2026-11-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.6,15.5,17.46
+2026-12-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.82,15.54,17.81
+2027-01-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.57,15.47,17.75
+2027-02-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.67,15.45,18.01
+2027-03-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.82,15.43,18.19
+2027-04-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,16.92,15.42,18.69
+2027-05-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,17.0,15.69,19.19
+2027-06-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,17.17,15.73,19.18
+2027-07-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,17.2,15.74,19.09
+2027-08-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,17.19,15.74,19.13
+2027-09-01,New Brunswick,NB,"Ground beef, per kilogram",gbm,17.19,15.71,19.16
+2026-10-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.72,8.7,8.75
+2026-11-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.72,8.7,8.77
+2026-12-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.72,8.7,8.78
+2027-01-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.75,8.7,8.75
+2027-02-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.91,8.74,9.02
+2027-03-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.95,8.74,9.08
+2027-04-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.97,8.76,9.11
+2027-05-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.99,8.81,9.15
+2027-06-01,New Brunswick,NB,"Milk, 4 litres",gbm,9.0,8.82,9.16
+2027-07-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.99,8.81,9.15
+2027-08-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.99,8.81,9.18
+2027-09-01,New Brunswick,NB,"Milk, 4 litres",gbm,8.98,8.79,9.19
+2026-10-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,9.89,9.46,10.27
+2026-11-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,9.9,9.5,10.36
+2026-12-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,9.94,9.54,10.62
+2027-01-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,9.99,9.22,10.57
+2027-02-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.07,9.3,10.77
+2027-03-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.07,9.08,10.9
+2027-04-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.11,9.15,11.19
+2027-05-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.18,9.57,11.45
+2027-06-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.17,9.52,11.57
+2027-07-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.3,9.71,11.75
+2027-08-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.23,9.61,11.78
+2027-09-01,New Brunswick,NB,"Roasted or ground coffee, 340 grams",gbm,10.3,9.65,11.88
+2026-10-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.77,3.69,3.85
+2026-11-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.78,3.7,3.86
+2026-12-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.79,3.7,3.9
+2027-01-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.81,3.7,3.91
+2027-02-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.7,3.94
+2027-03-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.69,3.97
+2027-04-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.69,4.0
+2027-05-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.69,4.03
+2027-06-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.69,4.04
+2027-07-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.83,3.7,4.08
+2027-08-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.84,3.7,4.09
+2027-09-01,New Brunswick,NB,"White bread, 675 grams",gbm,3.84,3.7,4.09
+2026-10-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.75,2.64,2.8
+2026-11-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.75,2.64,2.81
+2026-12-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.75,2.65,2.83
+2027-01-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.76,2.66,2.81
+2027-02-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.66,2.87
+2027-03-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.76,2.65,2.89
+2027-04-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.66,2.92
+2027-05-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.67,2.94
+2027-06-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.67,2.94
+2027-07-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.66,2.94
+2027-08-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.76,2.66,2.95
+2027-09-01,Newfoundland and Labrador,NL,"Bananas, per kilogram",gbm,2.77,2.66,2.97
+2026-10-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,5.94,5.62,6.44
+2026-11-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,5.92,5.62,6.46
+2026-12-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,5.93,5.63,6.47
+2027-01-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.26,5.81,6.76
+2027-02-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.18,5.75,6.75
+2027-03-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.02,5.49,6.65
+2027-04-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.29,5.66,7.03
+2027-05-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.04,5.61,6.79
+2027-06-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.19,5.68,6.94
+2027-07-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.24,5.69,6.95
+2027-08-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,5.97,5.57,6.85
+2027-09-01,Newfoundland and Labrador,NL,"Butter, 454 grams",gbm,6.01,5.63,6.96
+2026-10-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,15.87,14.92,17.13
+2026-11-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.01,14.99,17.28
+2026-12-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.01,15.13,17.37
+2027-01-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.2,15.28,17.35
+2027-02-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.02,14.96,17.38
+2027-03-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.2,15.18,17.51
+2027-04-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.11,15.18,17.67
+2027-05-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.17,15.25,17.73
+2027-06-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.19,15.24,17.82
+2027-07-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.19,15.16,17.96
+2027-08-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.14,15.16,18.01
+2027-09-01,Newfoundland and Labrador,NL,"Chicken breasts, per kilogram",gbm,16.51,15.36,18.22
+2026-10-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.49,5.33,5.67
+2026-11-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.47,5.29,5.59
+2026-12-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.49,5.27,5.61
+2027-01-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.49,5.32,5.68
+2027-02-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.53,5.34,5.79
+2027-03-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.49,5.24,5.74
+2027-04-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.56,5.31,5.86
+2027-05-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.63,5.38,5.89
+2027-06-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.64,5.39,5.9
+2027-07-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.65,5.38,5.92
+2027-08-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.67,5.39,5.93
+2027-09-01,Newfoundland and Labrador,NL,"Eggs, 1 dozen",gbm,5.67,5.36,5.93
+2026-10-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.64,15.59,17.24
+2026-11-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.68,15.59,17.36
+2026-12-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.88,15.59,17.61
+2027-01-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.75,15.56,17.48
+2027-02-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.81,15.56,17.79
+2027-03-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,16.92,15.58,17.99
+2027-04-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.11,15.55,18.27
+2027-05-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.28,15.75,18.77
+2027-06-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.4,15.81,18.97
+2027-07-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.45,15.87,18.85
+2027-08-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.52,15.85,18.82
+2027-09-01,Newfoundland and Labrador,NL,"Ground beef, per kilogram",gbm,17.53,15.82,18.87
+2026-10-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.0,9.56,10.54
+2026-11-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.02,9.57,10.64
+2026-12-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.09,9.63,10.91
+2027-01-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.09,9.31,10.85
+2027-02-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.2,9.39,11.06
+2027-03-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.16,9.18,11.12
+2027-04-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.25,9.26,11.52
+2027-05-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.29,9.66,11.77
+2027-06-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.29,9.63,11.93
+2027-07-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.43,9.75,12.05
+2027-08-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.35,9.7,12.2
+2027-09-01,Newfoundland and Labrador,NL,"Roasted or ground coffee, 340 grams",gbm,10.44,9.7,12.35
+2026-10-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.14,4.06,4.23
+2026-11-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.17,4.06,4.31
+2026-12-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.16,4.06,4.35
+2027-01-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.19,4.07,4.35
+2027-02-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.23,4.07,4.39
+2027-03-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.21,4.06,4.43
+2027-04-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.23,4.06,4.47
+2027-05-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.24,4.07,4.51
+2027-06-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.2,4.06,4.5
+2027-07-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.21,4.06,4.55
+2027-08-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.24,4.07,4.56
+2027-09-01,Newfoundland and Labrador,NL,"White bread, 675 grams",gbm,4.24,4.07,4.56
+2026-10-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.1,2.18
+2026-11-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.1,2.19
+2026-12-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.1,2.21
+2027-01-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.11,2.22
+2027-02-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.11,2.26
+2027-03-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.1,2.29
+2027-04-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.11,2.3
+2027-05-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.12,2.32
+2027-06-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.11,2.31
+2027-07-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.11,2.32
+2027-08-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.15,2.11,2.33
+2027-09-01,Nova Scotia,NS,"Bananas, per kilogram",gbm,2.16,2.11,2.33
+2026-10-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.63,5.53,6.05
+2026-11-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.57,5.47,6.03
+2026-12-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.63,5.55,6.2
+2027-01-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.85,5.67,6.3
+2027-02-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.8,5.62,6.38
+2027-03-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.62,5.39,6.34
+2027-04-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.92,5.57,6.65
+2027-05-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.75,5.51,6.55
+2027-06-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.94,5.63,6.65
+2027-07-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.9,5.62,6.59
+2027-08-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.72,5.5,6.52
+2027-09-01,Nova Scotia,NS,"Butter, 454 grams",gbm,5.68,5.5,6.5
+2026-10-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.32,14.49,16.51
+2026-11-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.39,14.48,16.66
+2026-12-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.39,14.64,16.91
+2027-01-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.23,14.43,16.8
+2027-02-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.32,14.51,16.93
+2027-03-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.34,13.86,17.67
+2027-04-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.44,14.18,17.07
+2027-05-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.44,14.27,17.1
+2027-06-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.24,14.16,17.12
+2027-07-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.15,14.08,17.16
+2027-08-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.17,14.09,17.38
+2027-09-01,Nova Scotia,NS,"Chicken breasts, per kilogram",gbm,15.5,14.28,17.79
+2026-10-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.34,5.24,5.44
+2026-11-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.33,5.22,5.49
+2026-12-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.34,5.18,5.48
+2027-01-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.36,5.26,5.47
+2027-02-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.39,5.27,5.55
+2027-03-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.38,5.19,5.6
+2027-04-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.46,5.26,5.62
+2027-05-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.48,5.31,5.65
+2027-06-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.48,5.31,5.67
+2027-07-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.48,5.31,5.68
+2027-08-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.46,5.28,5.68
+2027-09-01,Nova Scotia,NS,"Eggs, 1 dozen",gbm,5.5,5.29,5.7
+2026-10-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,16.75,15.7,17.41
+2026-11-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,16.81,15.76,17.59
+2026-12-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,16.96,15.7,17.94
+2027-01-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,16.77,15.69,17.79
+2027-02-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,16.89,15.68,18.13
+2027-03-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.03,15.69,18.31
+2027-04-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.23,15.66,18.88
+2027-05-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.32,15.89,19.48
+2027-06-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.49,15.97,19.48
+2027-07-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.54,16.01,19.38
+2027-08-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.58,15.98,19.4
+2027-09-01,Nova Scotia,NS,"Ground beef, per kilogram",gbm,17.6,15.95,19.43
+2026-10-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.26,7.19,7.32
+2026-11-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.26,7.19,7.36
+2026-12-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.25,7.19,7.36
+2027-01-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.31,7.2,7.33
+2027-02-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.38,7.2,7.48
+2027-03-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.42,7.2,7.53
+2027-04-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.43,7.21,7.55
+2027-05-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.45,7.25,7.58
+2027-06-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.44,7.25,7.58
+2027-07-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.44,7.24,7.55
+2027-08-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.44,7.24,7.57
+2027-09-01,Nova Scotia,NS,"Milk, 4 litres",gbm,7.44,7.23,7.58
+2026-10-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.37,9.95,10.94
+2026-11-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.41,9.95,11.05
+2026-12-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.47,10.0,11.33
+2027-01-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.52,9.83,11.26
+2027-02-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.6,9.74,11.44
+2027-03-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.62,9.67,11.55
+2027-04-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.71,9.67,11.98
+2027-05-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.74,10.05,12.24
+2027-06-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.76,10.05,12.41
+2027-07-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.9,10.21,12.54
+2027-08-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.8,10.15,12.69
+2027-09-01,Nova Scotia,NS,"Roasted or ground coffee, 340 grams",gbm,10.88,10.15,12.71
+2026-10-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.71,3.6,3.79
+2026-11-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.73,3.61,3.84
+2026-12-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.73,3.6,3.87
+2027-01-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.75,3.6,3.87
+2027-02-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.77,3.62,3.91
+2027-03-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.78,3.59,3.95
+2027-04-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.78,3.59,3.97
+2027-05-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.79,3.6,4.0
+2027-06-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.79,3.59,4.01
+2027-07-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.8,3.6,4.05
+2027-08-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.78,3.59,4.04
+2027-09-01,Nova Scotia,NS,"White bread, 675 grams",gbm,3.8,3.6,4.06
+2026-10-01,Ontario,ON,"Bananas, per kilogram",gbm,1.69,1.66,1.72
+2026-11-01,Ontario,ON,"Bananas, per kilogram",gbm,1.7,1.66,1.73
+2026-12-01,Ontario,ON,"Bananas, per kilogram",gbm,1.7,1.67,1.75
+2027-01-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.67,1.75
+2027-02-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.66,1.79
+2027-03-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.66,1.81
+2027-04-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.66,1.83
+2027-05-01,Ontario,ON,"Bananas, per kilogram",gbm,1.72,1.67,1.84
+2027-06-01,Ontario,ON,"Bananas, per kilogram",gbm,1.72,1.67,1.84
+2027-07-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.67,1.85
+2027-08-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.67,1.84
+2027-09-01,Ontario,ON,"Bananas, per kilogram",gbm,1.71,1.66,1.84
+2026-10-01,Ontario,ON,"Butter, 454 grams",gbm,5.66,5.41,5.92
+2026-11-01,Ontario,ON,"Butter, 454 grams",gbm,5.76,5.47,5.95
+2026-12-01,Ontario,ON,"Butter, 454 grams",gbm,5.61,5.39,6.03
+2027-01-01,Ontario,ON,"Butter, 454 grams",gbm,5.86,5.56,6.16
+2027-02-01,Ontario,ON,"Butter, 454 grams",gbm,5.79,5.5,6.26
+2027-03-01,Ontario,ON,"Butter, 454 grams",gbm,5.63,5.26,6.26
+2027-04-01,Ontario,ON,"Butter, 454 grams",gbm,5.94,5.46,6.45
+2027-05-01,Ontario,ON,"Butter, 454 grams",gbm,5.73,5.38,6.43
+2027-06-01,Ontario,ON,"Butter, 454 grams",gbm,5.97,5.52,6.47
+2027-07-01,Ontario,ON,"Butter, 454 grams",gbm,5.95,5.51,6.42
+2027-08-01,Ontario,ON,"Butter, 454 grams",gbm,5.8,5.46,6.42
+2027-09-01,Ontario,ON,"Butter, 454 grams",gbm,5.69,5.37,6.36
+2026-10-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,13.87,13.11,14.76
+2026-11-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.51,13.54,15.2
+2026-12-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.13,13.1,15.1
+2027-01-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.16,13.19,15.18
+2027-02-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,13.98,12.69,15.26
+2027-03-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.02,13.1,15.39
+2027-04-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.06,13.01,15.56
+2027-05-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.37,13.29,15.69
+2027-06-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.4,13.27,15.7
+2027-07-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.43,13.35,15.77
+2027-08-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.43,13.34,15.8
+2027-09-01,Ontario,ON,"Chicken breasts, per kilogram",gbm,14.42,13.27,15.89
+2026-10-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.03,4.93,5.07
+2026-11-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.03,4.92,5.06
+2026-12-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.03,4.94,5.16
+2027-01-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.03,4.94,5.06
+2027-02-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.05,4.94,5.16
+2027-03-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.04,4.9,5.2
+2027-04-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.11,4.96,5.3
+2027-05-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.14,5.0,5.32
+2027-06-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.14,5.01,5.33
+2027-07-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.15,5.0,5.34
+2027-08-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.15,5.0,5.36
+2027-09-01,Ontario,ON,"Eggs, 1 dozen",gbm,5.15,5.0,5.35
+2026-10-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.26,16.26,18.15
+2026-11-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.15,16.22,18.24
+2026-12-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.25,16.26,18.41
+2027-01-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.38,16.29,18.43
+2027-02-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.55,16.29,18.55
+2027-03-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.61,16.25,18.54
+2027-04-01,Ontario,ON,"Ground beef, per kilogram",gbm,17.77,16.3,18.92
+2027-05-01,Ontario,ON,"Ground beef, per kilogram",gbm,18.12,16.48,19.54
+2027-06-01,Ontario,ON,"Ground beef, per kilogram",gbm,18.21,16.48,19.63
+2027-07-01,Ontario,ON,"Ground beef, per kilogram",gbm,18.39,16.52,19.75
+2027-08-01,Ontario,ON,"Ground beef, per kilogram",gbm,18.23,16.42,19.89
+2027-09-01,Ontario,ON,"Ground beef, per kilogram",gbm,18.54,16.56,20.32
+2026-10-01,Ontario,ON,"Milk, 4 litres",gbm,6.93,6.88,6.95
+2026-11-01,Ontario,ON,"Milk, 4 litres",gbm,6.93,6.88,6.99
+2026-12-01,Ontario,ON,"Milk, 4 litres",gbm,6.93,6.88,7.01
+2027-01-01,Ontario,ON,"Milk, 4 litres",gbm,6.96,6.89,6.98
+2027-02-01,Ontario,ON,"Milk, 4 litres",gbm,7.01,6.91,7.22
+2027-03-01,Ontario,ON,"Milk, 4 litres",gbm,7.11,6.92,7.42
+2027-04-01,Ontario,ON,"Milk, 4 litres",gbm,7.08,6.92,7.45
+2027-05-01,Ontario,ON,"Milk, 4 litres",gbm,7.13,6.97,7.49
+2027-06-01,Ontario,ON,"Milk, 4 litres",gbm,7.18,6.99,7.49
+2027-07-01,Ontario,ON,"Milk, 4 litres",gbm,7.12,6.96,7.47
+2027-08-01,Ontario,ON,"Milk, 4 litres",gbm,7.09,6.96,7.5
+2027-09-01,Ontario,ON,"Milk, 4 litres",gbm,7.17,6.97,7.54
+2026-10-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.37,9.07,9.58
+2026-11-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.39,9.08,9.66
+2026-12-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.42,9.15,9.86
+2027-01-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.43,9.03,9.81
+2027-02-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.51,9.04,9.99
+2027-03-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.45,8.93,10.05
+2027-04-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.55,8.99,10.25
+2027-05-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.61,9.23,10.47
+2027-06-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.64,9.24,10.6
+2027-07-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.65,9.28,10.71
+2027-08-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.68,9.26,10.76
+2027-09-01,Ontario,ON,"Roasted or ground coffee, 340 grams",gbm,9.66,9.22,10.7
+2026-10-01,Ontario,ON,"White bread, 675 grams",gbm,3.25,3.2,3.32
+2026-11-01,Ontario,ON,"White bread, 675 grams",gbm,3.27,3.19,3.34
+2026-12-01,Ontario,ON,"White bread, 675 grams",gbm,3.27,3.19,3.36
+2027-01-01,Ontario,ON,"White bread, 675 grams",gbm,3.29,3.18,3.37
+2027-02-01,Ontario,ON,"White bread, 675 grams",gbm,3.3,3.18,3.49
+2027-03-01,Ontario,ON,"White bread, 675 grams",gbm,3.33,3.17,3.55
+2027-04-01,Ontario,ON,"White bread, 675 grams",gbm,3.3,3.18,3.55
+2027-05-01,Ontario,ON,"White bread, 675 grams",gbm,3.34,3.19,3.6
+2027-06-01,Ontario,ON,"White bread, 675 grams",gbm,3.34,3.18,3.61
+2027-07-01,Ontario,ON,"White bread, 675 grams",gbm,3.33,3.19,3.64
+2027-08-01,Ontario,ON,"White bread, 675 grams",gbm,3.34,3.18,3.64
+2027-09-01,Ontario,ON,"White bread, 675 grams",gbm,3.34,3.18,3.64
+2026-10-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.15,2.09,2.17
+2026-11-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.15,2.09,2.18
+2026-12-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.15,2.09,2.19
+2027-01-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.16,2.1,2.19
+2027-02-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.17,2.09,2.23
+2027-03-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.16,2.09,2.27
+2027-04-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.17,2.09,2.28
+2027-05-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.17,2.1,2.29
+2027-06-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.17,2.1,2.29
+2027-07-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.17,2.09,2.3
+2027-08-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.16,2.09,2.3
+2027-09-01,Prince Edward Island,PE,"Bananas, per kilogram",gbm,2.16,2.09,2.29
+2026-10-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.53,5.41,6.02
+2026-11-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.4,5.32,5.93
+2026-12-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.59,5.48,6.17
+2027-01-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.63,5.45,6.2
+2027-02-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.66,5.5,6.3
+2027-03-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.55,5.3,6.3
+2027-04-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.82,5.51,6.61
+2027-05-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.66,5.38,6.48
+2027-06-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.84,5.51,6.59
+2027-07-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.8,5.5,6.55
+2027-08-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.54,5.34,6.42
+2027-09-01,Prince Edward Island,PE,"Butter, 454 grams",gbm,5.58,5.37,6.46
+2026-10-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.3,14.57,16.27
+2026-11-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.37,14.55,16.41
+2026-12-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.37,14.61,16.64
+2027-01-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.25,14.39,16.57
+2027-02-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.32,14.37,16.56
+2027-03-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.42,14.0,17.06
+2027-04-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.4,14.25,16.7
+2027-05-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.42,14.22,16.85
+2027-06-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.18,14.2,17.05
+2027-07-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.15,14.14,17.09
+2027-08-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.25,14.2,17.42
+2027-09-01,Prince Edward Island,PE,"Chicken breasts, per kilogram",gbm,15.51,14.31,17.55
+2026-10-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.27,5.18,5.36
+2026-11-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.27,5.16,5.39
+2026-12-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.28,5.1,5.38
+2027-01-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.29,5.19,5.38
+2027-02-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.32,5.2,5.45
+2027-03-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.3,5.1,5.49
+2027-04-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.31,5.15,5.5
+2027-05-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.4,5.24,5.54
+2027-06-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.4,5.24,5.56
+2027-07-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.4,5.23,5.58
+2027-08-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.42,5.23,5.59
+2027-09-01,Prince Edward Island,PE,"Eggs, 1 dozen",gbm,5.41,5.21,5.6
+2026-10-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.5,15.53,17.01
+2026-11-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.66,15.59,17.18
+2026-12-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.73,15.58,17.54
+2027-01-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.62,15.53,17.43
+2027-02-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.69,15.54,17.62
+2027-03-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,16.84,15.53,17.8
+2027-04-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.13,15.52,18.29
+2027-05-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.28,15.69,18.95
+2027-06-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.37,15.78,19.04
+2027-07-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.41,15.81,19.04
+2027-08-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.4,15.74,19.02
+2027-09-01,Prince Edward Island,PE,"Ground beef, per kilogram",gbm,17.45,15.77,19.05
+2026-10-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.32,9.28,9.39
+2026-11-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.32,9.28,9.42
+2026-12-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.32,9.28,9.43
+2027-01-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.36,9.29,9.39
+2027-02-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.5,9.32,9.65
+2027-03-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.54,9.33,9.71
+2027-04-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.57,9.34,9.74
+2027-05-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.58,9.39,9.79
+2027-06-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.59,9.39,9.79
+2027-07-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.58,9.37,9.78
+2027-08-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.58,9.37,9.8
+2027-09-01,Prince Edward Island,PE,"Milk, 4 litres",gbm,9.58,9.35,9.81
+2026-10-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.14,9.68,10.62
+2026-11-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.16,9.68,10.73
+2026-12-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.22,9.72,11.01
+2027-01-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.31,9.63,10.95
+2027-02-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.38,9.42,11.13
+2027-03-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.37,9.38,11.29
+2027-04-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.46,9.43,11.71
+2027-05-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.49,9.78,11.99
+2027-06-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.5,9.79,12.12
+2027-07-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.64,9.96,12.25
+2027-08-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.55,9.88,12.47
+2027-09-01,Prince Edward Island,PE,"Roasted or ground coffee, 340 grams",gbm,10.62,9.9,12.49
+2026-10-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.79,3.7,3.85
+2026-11-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.8,3.7,3.93
+2026-12-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.8,3.7,3.91
+2027-01-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.82,3.7,3.93
+2027-02-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.84,3.7,4.0
+2027-03-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.82,3.69,4.02
+2027-04-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.82,3.69,4.04
+2027-05-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.85,3.69,4.09
+2027-06-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.83,3.69,4.06
+2027-07-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.86,3.69,4.15
+2027-08-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.86,3.69,4.15
+2027-09-01,Prince Edward Island,PE,"White bread, 675 grams",gbm,3.86,3.7,4.14
+2026-10-01,Quebec,QC,"Bananas, per kilogram",gbm,1.97,1.91,1.99
+2026-11-01,Quebec,QC,"Bananas, per kilogram",gbm,1.98,1.91,2.0
+2026-12-01,Quebec,QC,"Bananas, per kilogram",gbm,1.98,1.91,2.02
+2027-01-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.93,2.03
+2027-02-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.06
+2027-03-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.08
+2027-04-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.91,2.09
+2027-05-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.11
+2027-06-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.1
+2027-07-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.12
+2027-08-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.13
+2027-09-01,Quebec,QC,"Bananas, per kilogram",gbm,1.99,1.92,2.11
+2026-10-01,Quebec,QC,"Butter, 454 grams",gbm,5.5,5.31,5.81
+2026-11-01,Quebec,QC,"Butter, 454 grams",gbm,5.39,5.14,5.81
+2026-12-01,Quebec,QC,"Butter, 454 grams",gbm,5.44,5.23,5.92
+2027-01-01,Quebec,QC,"Butter, 454 grams",gbm,5.56,5.38,5.94
+2027-02-01,Quebec,QC,"Butter, 454 grams",gbm,5.72,5.49,6.24
+2027-03-01,Quebec,QC,"Butter, 454 grams",gbm,5.55,5.24,6.1
+2027-04-01,Quebec,QC,"Butter, 454 grams",gbm,5.62,5.27,6.22
+2027-05-01,Quebec,QC,"Butter, 454 grams",gbm,5.62,5.32,6.29
+2027-06-01,Quebec,QC,"Butter, 454 grams",gbm,5.61,5.32,6.25
+2027-07-01,Quebec,QC,"Butter, 454 grams",gbm,5.65,5.33,6.38
+2027-08-01,Quebec,QC,"Butter, 454 grams",gbm,5.52,5.25,6.31
+2027-09-01,Quebec,QC,"Butter, 454 grams",gbm,5.55,5.3,6.36
+2026-10-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.34,13.27,15.32
+2026-11-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.39,13.38,15.45
+2026-12-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.39,13.27,15.61
+2027-01-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.26,13.19,15.56
+2027-02-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.54,13.59,15.72
+2027-03-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.68,13.57,15.9
+2027-04-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.36,13.29,15.97
+2027-05-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.38,13.26,15.97
+2027-06-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.42,13.45,16.02
+2027-07-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.46,13.41,16.17
+2027-08-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.44,13.38,16.21
+2027-09-01,Quebec,QC,"Chicken breasts, per kilogram",gbm,14.73,13.61,16.26
+2026-10-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.2,3.88,4.46
+2026-11-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.2,3.96,4.48
+2026-12-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.24,3.87,4.53
+2027-01-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.25,3.98,4.51
+2027-02-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.31,4.02,4.58
+2027-03-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.31,3.99,4.69
+2027-04-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.34,3.99,4.76
+2027-05-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.37,4.06,4.78
+2027-06-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.42,4.07,4.82
+2027-07-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.47,4.1,4.87
+2027-08-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.42,4.04,4.86
+2027-09-01,Quebec,QC,"Eggs, 1 dozen",gbm,4.42,4.03,4.9
+2026-10-01,Quebec,QC,"Ground beef, per kilogram",gbm,16.99,15.49,17.69
+2026-11-01,Quebec,QC,"Ground beef, per kilogram",gbm,16.97,15.38,17.79
+2026-12-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.32,15.68,18.17
+2027-01-01,Quebec,QC,"Ground beef, per kilogram",gbm,16.8,15.52,17.71
+2027-02-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.08,15.73,18.8
+2027-03-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.24,15.5,18.43
+2027-04-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.27,15.55,18.75
+2027-05-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.6,15.65,19.44
+2027-06-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.97,15.79,19.76
+2027-07-01,Quebec,QC,"Ground beef, per kilogram",gbm,17.99,15.66,19.56
+2027-08-01,Quebec,QC,"Ground beef, per kilogram",gbm,18.07,15.89,20.06
+2027-09-01,Quebec,QC,"Ground beef, per kilogram",gbm,18.08,15.82,19.97
+2026-10-01,Quebec,QC,"Milk, 4 litres",gbm,8.5,8.48,8.54
+2026-11-01,Quebec,QC,"Milk, 4 litres",gbm,8.5,8.48,8.57
+2026-12-01,Quebec,QC,"Milk, 4 litres",gbm,8.5,8.48,8.57
+2027-01-01,Quebec,QC,"Milk, 4 litres",gbm,8.52,8.49,8.54
+2027-02-01,Quebec,QC,"Milk, 4 litres",gbm,8.68,8.52,8.82
+2027-03-01,Quebec,QC,"Milk, 4 litres",gbm,8.73,8.52,8.87
+2027-04-01,Quebec,QC,"Milk, 4 litres",gbm,8.74,8.53,8.9
+2027-05-01,Quebec,QC,"Milk, 4 litres",gbm,8.76,8.58,8.94
+2027-06-01,Quebec,QC,"Milk, 4 litres",gbm,8.76,8.58,8.94
+2027-07-01,Quebec,QC,"Milk, 4 litres",gbm,8.76,8.57,8.94
+2027-08-01,Quebec,QC,"Milk, 4 litres",gbm,8.76,8.57,8.97
+2027-09-01,Quebec,QC,"Milk, 4 litres",gbm,8.75,8.55,8.98
+2026-10-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.61,9.06,9.71
+2026-11-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.58,9.01,9.74
+2026-12-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.76,9.17,9.95
+2027-01-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.8,9.18,10.16
+2027-02-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.72,9.11,10.19
+2027-03-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.69,9.05,10.32
+2027-04-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.88,9.17,10.49
+2027-05-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.78,9.23,10.58
+2027-06-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.94,9.31,10.64
+2027-07-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.93,9.29,10.72
+2027-08-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,10.0,9.33,10.77
+2027-09-01,Quebec,QC,"Roasted or ground coffee, 340 grams",gbm,9.86,9.17,10.72
+2026-10-01,Quebec,QC,"White bread, 675 grams",gbm,3.93,3.85,4.01
+2026-11-01,Quebec,QC,"White bread, 675 grams",gbm,3.93,3.84,4.02
+2026-12-01,Quebec,QC,"White bread, 675 grams",gbm,3.94,3.84,4.05
+2027-01-01,Quebec,QC,"White bread, 675 grams",gbm,3.98,3.86,4.07
+2027-02-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.86,4.1
+2027-03-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.84,4.14
+2027-04-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.84,4.16
+2027-05-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.85,4.19
+2027-06-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.85,4.2
+2027-07-01,Quebec,QC,"White bread, 675 grams",gbm,3.99,3.85,4.24
+2027-08-01,Quebec,QC,"White bread, 675 grams",gbm,4.0,3.85,4.25
+2027-09-01,Quebec,QC,"White bread, 675 grams",gbm,4.0,3.85,4.24
+2026-10-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.04,1.99,2.06
+2026-11-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.05,1.99,2.07
+2026-12-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.05,1.99,2.09
+2027-01-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,2.0,2.08
+2027-02-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,2.0,2.13
+2027-03-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.05,2.0,2.15
+2027-04-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,1.99,2.16
+2027-05-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,2.0,2.18
+2027-06-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,1.99,2.18
+2027-07-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,1.99,2.19
+2027-08-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,1.99,2.2
+2027-09-01,Saskatchewan,SK,"Bananas, per kilogram",gbm,2.06,1.99,2.21
+2026-10-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.67,5.44,6.03
+2026-11-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.64,5.42,6.06
+2026-12-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.65,5.45,6.12
+2027-01-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.92,5.65,6.33
+2027-02-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.83,5.59,6.35
+2027-03-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.68,5.33,6.31
+2027-04-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.95,5.54,6.58
+2027-05-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.8,5.45,6.51
+2027-06-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.9,5.54,6.53
+2027-07-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.85,5.51,6.52
+2027-08-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.76,5.44,6.49
+2027-09-01,Saskatchewan,SK,"Butter, 454 grams",gbm,5.72,5.43,6.53
+2026-10-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.05,15.14,17.05
+2026-11-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.11,15.17,17.15
+2026-12-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.11,15.04,17.23
+2027-01-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,15.96,15.13,17.25
+2027-02-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.0,15.1,17.2
+2027-03-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.09,14.83,17.44
+2027-04-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.1,14.95,17.59
+2027-05-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.1,14.88,17.52
+2027-06-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,15.81,14.85,17.62
+2027-07-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.04,14.85,17.87
+2027-08-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,15.78,14.7,17.96
+2027-09-01,Saskatchewan,SK,"Chicken breasts, per kilogram",gbm,16.2,14.96,18.16
+2026-10-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.82,4.71,4.89
+2026-11-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.82,4.69,4.89
+2026-12-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.82,4.68,4.91
+2027-01-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.81,4.71,4.89
+2027-02-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.82,4.71,4.97
+2027-03-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.81,4.66,5.01
+2027-04-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.82,4.72,5.03
+2027-05-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.84,4.76,5.08
+2027-06-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.84,4.76,5.06
+2027-07-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.84,4.74,5.1
+2027-08-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.91,4.76,5.17
+2027-09-01,Saskatchewan,SK,"Eggs, 1 dozen",gbm,4.93,4.77,5.16
+2026-10-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,17.9,16.52,18.39
+2026-11-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,17.97,16.62,18.69
+2026-12-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.08,16.64,18.95
+2027-01-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,17.85,16.66,18.69
+2027-02-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,17.84,16.66,18.89
+2027-03-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.07,16.66,19.04
+2027-04-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.29,16.64,19.66
+2027-05-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.51,16.79,20.13
+2027-06-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.8,16.93,20.5
+2027-07-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.83,16.89,20.44
+2027-08-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.85,16.93,20.63
+2027-09-01,Saskatchewan,SK,"Ground beef, per kilogram",gbm,18.88,16.89,20.58
+2026-10-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.49,6.4,6.61
+2026-11-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.5,6.4,6.65
+2026-12-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.5,6.4,6.68
+2027-01-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.52,6.41,6.62
+2027-02-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.57,6.41,6.77
+2027-03-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.62,6.44,6.98
+2027-04-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.7,6.46,6.99
+2027-05-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.71,6.49,7.02
+2027-06-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.71,6.5,7.01
+2027-07-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.69,6.49,7.0
+2027-08-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.7,6.49,7.01
+2027-09-01,Saskatchewan,SK,"Milk, 4 litres",gbm,6.69,6.48,7.04
+2026-10-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.75,8.49,9.03
+2026-11-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.8,8.52,9.15
+2026-12-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.8,8.56,9.26
+2027-01-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.81,8.47,9.31
+2027-02-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.95,8.51,9.57
+2027-03-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.86,8.41,9.53
+2027-04-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.91,8.4,9.67
+2027-05-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,9.0,8.64,9.89
+2027-06-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,8.95,8.61,9.98
+2027-07-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,9.07,8.67,10.12
+2027-08-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,9.0,8.65,10.15
+2027-09-01,Saskatchewan,SK,"Roasted or ground coffee, 340 grams",gbm,9.08,8.65,10.18
+2026-10-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.7,3.53,3.88
+2026-11-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.72,3.54,3.93
+2026-12-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.73,3.53,4.02
+2027-01-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.73,3.54,3.97
+2027-02-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.74,3.53,4.01
+2027-03-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.76,3.53,4.05
+2027-04-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.76,3.53,4.14
+2027-05-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.77,3.53,4.21
+2027-06-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.78,3.53,4.2
+2027-07-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.76,3.53,4.28
+2027-08-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.76,3.53,4.3
+2027-09-01,Saskatchewan,SK,"White bread, 675 grams",gbm,3.78,3.53,4.28
